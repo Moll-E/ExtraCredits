@@ -1,0 +1,2 @@
+C:\Users\Kylen\Documents\GitHub\ExtraCredits\BlueprintExtraCredit\Intermediate\Source\BlueprintExtraCredit.Build.cs
+C:\Users\Kylen\Documents\GitHub\ExtraCredits\BlueprintExtraCredit\Intermediate\Source\BlueprintExtraCredit.Target.cs
