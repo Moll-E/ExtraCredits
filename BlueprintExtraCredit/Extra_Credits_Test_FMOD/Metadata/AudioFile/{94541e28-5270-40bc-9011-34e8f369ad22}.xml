@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{94541e28-5270-40bc-9011-34e8f369ad22}">
+        <property name="assetPath">
+            <value>Wooden Step.3.aif</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>0.47325</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{325368bf-04d8-466f-8648-404e6bccdb23}</destination>
+        </relationship>
+    </object>
+</objects>
