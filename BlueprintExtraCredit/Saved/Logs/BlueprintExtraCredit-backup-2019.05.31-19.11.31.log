@@ -1,0 +1,1923 @@
+﻿Log file open, 05/31/19 12:12:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BlueprintExtraCredit
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.219613
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin FMODStudio
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.145s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.007s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.31-18.12.15:245][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.31-18.12.15:245][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.31-18.12.15:245][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Config/Windows/Engine.ini]
+[2019.05.31-18.12.15:245][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.31-18.12.15:245][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Config/Windows/Engine.ini]
+[2019.05.31-18.12.15:245][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Config/Windows/Engine.ini]
+[2019.05.31-18.12.15:245][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.31-18.12.15:245][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.31-18.12.15:245][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.31-18.12.15:245][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.31-18.12.15:245][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.31-18.12.15:245][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.31-18.12.15:245][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.31-18.12.15:246][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.31-18.12.15:246][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.31-18.12.15:246][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.31-18.12.15:246][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.31-18.12.15:246][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.31-18.12.15:246][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.31-18.12.15:246][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Config/Windows/Engine.ini]
+[2019.05.31-18.12.15:246][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.31-18.12.15:246][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.31-18.12.15:246][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.31-18.12.15:246][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.31-18.12.15:246][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.31-18.12.15:246][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.31-18.12.15:246][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.05.31-18.12.15:246][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.31-18.12.15:246][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.31-18.12.15:246][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.05.31-18.12.15:246][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.31-18.12.15:246][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.31-18.12.15:246][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.31-18.12.15:246][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.31-18.12.15:246][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Config/Windows/Engine.ini]
+[2019.05.31-18.12.15:246][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Config/Windows/Engine.ini]
+[2019.05.31-18.12.15:255][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Config/Windows/Scalability.ini]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Config/Windows/Scalability.ini]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Config/Windows/Scalability.ini]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Config/Windows/Scalability.ini]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.31-18.12.15:255][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Config/Windows/Scalability.ini]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Config/Windows/Scalability.ini]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Config/Windows/Scalability.ini]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.31-18.12.15:256][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.31-18.12.15:256][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.31-18.12.15:256][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.31-18.12.15:271][  0]LogHAL: Display: Platform has ~ 16 GB [17106100224 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.31-18.12.15:271][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.05.31-18.12.15:271][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.31-18.12.15:271][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Config/Windows/Scalability.ini]
+[2019.05.31-18.12.15:271][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.31-18.12.15:271][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.31-18.12.15:271][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Config/Windows/Scalability.ini]
+[2019.05.31-18.12.15:271][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.31-18.12.15:271][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Config/Windows/Scalability.ini]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Config/Windows/Scalability.ini]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Config/Windows/Scalability.ini]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Config/Windows/Scalability.ini]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.31-18.12.15:272][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.31-18.12.15:273][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.31-18.12.15:273][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.31-18.12.15:273][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.31-18.12.15:273][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.31-18.12.15:273][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.31-18.12.15:273][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.31-18.12.15:273][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Config/Windows/Scalability.ini]
+[2019.05.31-18.12.15:273][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.31-18.12.15:273][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.31-18.12.15:273][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.31-18.12.15:273][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.31-18.12.15:273][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Config/Windows/Engine.ini]
+[2019.05.31-18.12.15:273][  0]LogInit: Computer: DESKTOP-CADNUSQ
+[2019.05.31-18.12.15:273][  0]LogInit: User: Kylen
+[2019.05.31-18.12.15:273][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.31-18.12.15:273][  0]LogInit: High frequency timer resolution =2.648434 MHz
+[2019.05.31-18.12.15:274][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.31-18.12.15:274][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.31-18.12.15:274][  0]LogMemory: Process Physical Memory: 102.34 MB used, 102.34 MB peak
+[2019.05.31-18.12.15:274][  0]LogMemory: Process Virtual Memory: 84.75 MB used, 84.75 MB peak
+[2019.05.31-18.12.15:274][  0]LogMemory: Physical Memory: 10611.14 MB used,  5702.51 MB free, 16313.65 MB total
+[2019.05.31-18.12.15:274][  0]LogMemory: Virtual Memory: 4633.93 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2019.05.31-18.12.15:308][  0]LogInit: Using OS detected language (en-US).
+[2019.05.31-18.12.15:308][  0]LogInit: Using OS detected locale (en-US).
+[2019.05.31-18.12.15:310][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.31-18.12.15:772][  0]LogStreaming: Display: Took  0.464s to InitEngineTextLocalization.
+[2019.05.31-18.12.15:772][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.31-18.12.15:823][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.31-18.12.15:823][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.31-18.12.16:126][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.31-18.12.16:126][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.31-18.12.16:163][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.05.31-18.12.16:163][  0]LogD3D11RHI:       6100/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.05.31-18.12.16:167][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.31-18.12.16:167][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.31-18.12.16:167][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.31-18.12.16:176][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.31-18.12.16:176][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.31-18.12.16:176][  0]LogWindows: EnumDisplayDevices:
+[2019.05.31-18.12.16:176][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.05.31-18.12.16:177][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2019.05.31-18.12.16:177][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.05.31-18.12.16:178][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.05.31-18.12.16:178][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.05.31-18.12.16:178][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.05.31-18.12.16:178][  0]LogD3D11RHI:   Driver Version: 375.63 (internal:21.21.13.7563, unified:375.63)
+[2019.05.31-18.12.16:178][  0]LogD3D11RHI:      Driver Date: 10-21-2016
+[2019.05.31-18.12.16:178][  0]LogRHI: Texture pool is 4270 MB (70% of 6100 MB)
+[2019.05.31-18.12.16:203][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.31-18.12.16:215][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.31-18.12.16:762][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.31-18.12.16:777][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.31-18.12.16:801][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.31-18.12.16:816][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.31-18.12.16:832][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.31-18.12.16:847][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.31-18.12.16:862][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.31-18.12.16:878][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.31-18.12.16:886][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.31-18.12.16:972][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.31-18.12.16:972][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.31-18.12.16:972][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.31-18.12.16:972][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.31-18.12.16:972][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.31-18.12.16:972][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.31-18.12.16:972][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.31-18.12.16:972][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.31-18.12.16:972][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.31-18.12.16:972][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.31-18.12.16:972][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.31-18.12.16:972][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.31-18.12.16:972][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.31-18.12.16:972][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.31-18.12.16:972][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.31-18.12.16:972][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.31-18.12.16:972][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.31-18.12.16:972][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.31-18.12.16:974][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.31-18.12.17:042][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.31-18.12.17:042][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.31-18.12.17:070][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.31-18.12.17:070][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.31-18.12.17:086][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.31-18.12.17:100][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.31-18.12.17:115][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.31-18.12.17:132][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.31-18.12.17:185][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.31-18.12.17:185][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.31-18.12.17:185][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.31-18.12.17:277][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Intermediate/Shaders/WorkingDirectory/22064/).
+[2019.05.31-18.12.17:277][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kylen/AppData/Local/Temp/UnrealShaderWorkingDir/F306F2944DBB7FE49A31089877DF0F0A/'.
+[2019.05.31-18.12.17:280][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.31-18.12.17:280][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.31-18.12.17:280][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.31-18.12.17:901][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.31-18.12.17:968][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/Kylen/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.31-18.12.17:968][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kylen/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.05.31-18.12.17:968][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.31-18.12.17:968][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.31-18.12.17:968][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.31-18.12.17:968][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.31-18.12.17:986][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.31-18.12.17:986][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.31-18.12.17:986][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.31-18.12.18:000][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kylen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.31-18.12.18:000][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.31-18.12.18:000][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.31-18.12.18:028][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.31-18.12.18:030][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.31-18.12.18:031][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.31-18.12.18:142][  0]LogAssetRegistry: FAssetRegistry took 0.0354 seconds to start up
+[2019.05.31-18.12.18:519][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.31-18.12.18:695][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.31-18.12.18:702][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.31-18.12.18:702][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.31-18.12.18:702][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.31-18.12.18:702][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.31-18.12.18:716][  0]LogNetVersion: BlueprintExtraCredit 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3025649725)
+[2019.05.31-18.12.19:407][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.167989 seconds
+[2019.05.31-18.12.19:412][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.05.31-18.12.19:412][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.05.31-18.12.19:413][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.31-18.12.20:545][  0]LogFMOD: FFMODStudioModule startup
+[2019.05.31-18.12.20:545][  0]LogFMOD:  Lib path = '../../../Engine/Plugins/FMODStudio/Binaries'
+[2019.05.31-18.12.20:545][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading ../../../Engine/Plugins/FMODStudio/Binaries/Win64/fmodL64.dll
+[2019.05.31-18.12.20:550][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading ../../../Engine/Plugins/FMODStudio/Binaries/Win64/fmodstudioL64.dll
+[2019.05.31-18.12.20:603][  0]LogFMOD: Loading strings bank: ../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Content/FMOD/Desktop/Master Bank.strings.bank
+[2019.05.31-18.12.20:605][  0]LogFMOD: Constructing asset: /Game/FMOD/Snapshots/Play_Jenova
+[2019.05.31-18.12.20:605][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/WoodSteps
+[2019.05.31-18.12.20:605][  0]LogFMOD: Constructing asset: /Game/FMOD/Snapshots/Metal_Steps
+[2019.05.31-18.12.20:605][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/Music_Switcher/J-E-N-O-V-A
+[2019.05.31-18.12.20:606][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/Dialog/Test_Dialog_1
+[2019.05.31-18.12.20:606][  0]LogFMOD: Constructing asset: /Game/FMOD/Snapshots/Wood_Steps
+[2019.05.31-18.12.20:606][  0]LogFMOD: Constructing asset: /Game/FMOD/Banks/Master_Bank
+[2019.05.31-18.12.20:606][  0]LogFMOD: Skipping asset: bus:/
+[2019.05.31-18.12.20:606][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/Reverb
+[2019.05.31-18.12.20:606][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/Jenova
+[2019.05.31-18.12.20:606][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/Test_Steps/FootSteps
+[2019.05.31-18.12.20:606][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/Test_Steps/MetalSteps
+[2019.05.31-18.12.20:606][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/Dialog/Long_test_Dialog
+[2019.05.31-18.12.20:607][  0]LogFMOD: Constructing asset: /Game/FMOD/Snapshots/Filter
+[2019.05.31-18.12.20:607][  0]LogFMOD: Skipping asset: bank:/Master Bank.strings
+[2019.05.31-18.12.20:607][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/F_zero
+[2019.05.31-18.12.20:607][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/Metal_steps
+[2019.05.31-18.12.20:607][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/Dialog/Test_Dialog_2
+[2019.05.31-18.12.20:607][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/Silly_Button/Button
+[2019.05.31-18.12.20:607][  0]LogFMOD: Constructing asset: /Game/FMOD/Snapshots/Play_f_zero
+[2019.05.31-18.12.20:608][  0]LogFMOD: Constructing asset: /Game/FMOD/Snapshots/Stop_All_Music
+[2019.05.31-18.12.20:608][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/Music_Switcher/F_FUCKING_ZERO_BBY
+[2019.05.31-18.12.20:617][  0]LogFMOD: Default sample rate = 48000
+[2019.05.31-18.12.20:617][  0]LogFMOD: System sample rate = 48000
+[2019.05.31-18.12.20:617][  0]LogFMOD: Matching system sample rate 48000
+[2019.05.31-18.12.20:643][  0]LogFMOD: Default sample rate = 48000
+[2019.05.31-18.12.20:643][  0]LogFMOD: System sample rate = 48000
+[2019.05.31-18.12.20:643][  0]LogFMOD: Matching system sample rate 48000
+[2019.05.31-18.12.20:659][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.31-18.12.20:673][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.31-18.12.21:641][  0]SourceControl: Source control is disabled
+[2019.05.31-18.12.21:641][  0]SourceControl: Source control is disabled
+[2019.05.31-18.12.21:643][  0]SourceControl: Source control is disabled
+[2019.05.31-18.12.21:645][  0]SourceControl: Source control is disabled
+[2019.05.31-18.12.21:739][  0]LogFMOD: FFMODStudioEditorModule startup
+[2019.05.31-18.12.21:884][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.31-18.12.21:984][  0]LogOcInput: OculusInput pre-init called
+[2019.05.31-18.12.22:127][  0]LogClass: Warning: BoolProperty FFMODAttenuationDetails::bOverrideAttenuation is not initialized properly
+[2019.05.31-18.12.22:128][  0]LogClass: Display: 1 Uninitialized script stuct members found
+[2019.05.31-18.12.22:129][  0]LogAutomationTest: Warning: BoolProperty FFMODAttenuationDetails::bOverrideAttenuation is not initialized properly
+[2019.05.31-18.12.22:132][  0]LogEngine: Initializing Engine...
+[2019.05.31-18.12.22:134][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.31-18.12.22:135][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.31-18.12.22:135][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.31-18.12.22:136][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.31-18.12.22:136][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.31-18.12.22:398][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.31-18.12.22:414][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.31-18.12.22:521][  0]LogInit: XAudio2 using 'DELL S2415H-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.31-18.12.22:534][  0]LogInit: FAudioDevice initialized.
+[2019.05.31-18.12.22:535][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.31-18.12.22:691][  0]LogDerivedDataCache: Saved boot cache 0.16s 71MB C:/Users/Kylen/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.31-18.12.22:702][  0]LogInit: Texture streaming: Enabled
+[2019.05.31-18.12.22:728][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.31-18.12.22:749][  0]LogInit: Transaction tracking system initialized
+[2019.05.31-18.12.22:786][  0]BlueprintLog: New page: Editor Load
+[2019.05.31-18.12.22:906][  0]LocalizationService: Localization service is disabled
+[2019.05.31-18.12.23:462][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Content/' took 0.02s
+[2019.05.31-18.12.23:462][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.31-18.12.23:462][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.31-18.12.23:462][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.31-18.12.23:462][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.31-18.12.23:462][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.31-18.12.23:462][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.31-18.12.23:462][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.31-18.12.23:658][  0]SourceControl: Source control is disabled
+[2019.05.31-18.12.23:658][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.31-18.12.23:658][  0]LightingResults: New page: Lighting Build
+[2019.05.31-18.12.23:662][  0]MapCheck: New page: Map Check
+[2019.05.31-18.12.23:662][  0]LightingResults: New page: Lighting Build
+[2019.05.31-18.12.23:861][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.05.31-18.12.23:869][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.31-18.12.23:912][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.31-18.12.23:912][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.155ms to complete.
+[2019.05.31-18.12.23:912][  0]LogFileHelpers: Loading map 'Template_Default' took 0.254
+[2019.05.31-18.12.24:029][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-18.12.24:037][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-18.12.24:045][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-18.12.24:054][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-18.12.24:062][  0]LogCollectionManager: Loaded 0 collections in 0.002287 seconds
+[2019.05.31-18.12.24:103][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Collections/' took 0.01s
+[2019.05.31-18.12.24:103][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Content/Developers/Kylen/Collections/' took 0.01s
+[2019.05.31-18.12.24:103][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Content/Collections/' took 0.01s
+[2019.05.31-18.12.24:103][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.31-18.12.24:112][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2667 classes and 627 folders.
+[2019.05.31-18.12.24:120][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.31-18.12.24:122][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.31-18.12.24:123][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.31-18.12.24:124][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.31-18.12.24:125][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.31-18.12.24:125][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.31-18.12.24:126][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.31-18.12.24:126][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.31-18.12.24:127][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.31-18.12.24:128][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.31-18.12.24:128][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.31-18.12.24:129][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.31-18.12.24:130][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.31-18.12.24:131][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.31-18.12.24:131][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.31-18.12.24:132][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.31-18.12.24:133][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.31-18.12.24:134][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.31-18.12.24:134][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.31-18.12.24:135][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.31-18.12.24:136][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.31-18.12.24:136][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.31-18.12.24:137][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.31-18.12.24:138][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.31-18.12.24:139][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.31-18.12.24:139][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.31-18.12.24:140][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.31-18.12.24:197][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.31-18.12.24:204][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.05.31-18.12.24:215][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2019.05.31-18.12.24:283][  0]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.31-18.12.24:285][  0]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.31-18.12.24:290][  0]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.31-18.12.24:378][  0]LogRenderer: Reallocating scene render targets to support 1208x612 Format 10 NumSamples 1 (Frame:1).
+[2019.05.31-18.12.24:412][  0]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.31-18.12.24:544][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.31-18.12.24:544][  0]LogLoad: (Engine Initialization) Total time: 11.73 seconds
+[2019.05.31-18.12.24:544][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.31-18.12.24:555][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.31-18.12.24:622][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.31-18.12.24:657][  1]LogFMOD: File has changed: ../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Content/FMOD/Desktop/Master Bank.strings.bank
+[2019.05.31-18.12.24:741][  1]LogFMOD: Loading strings bank: ../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Content/FMOD/Desktop/Master Bank.strings.bank
+[2019.05.31-18.12.24:743][  1]LogFMOD: Skipping asset: bus:/
+[2019.05.31-18.12.24:743][  1]LogFMOD: Skipping asset: bank:/Master Bank.strings
+[2019.05.31-18.12.24:748][  1]LogFMOD: Default sample rate = 48000
+[2019.05.31-18.12.24:748][  1]LogFMOD: System sample rate = 48000
+[2019.05.31-18.12.24:748][  1]LogFMOD: Matching system sample rate 48000
+[2019.05.31-18.12.24:908][  1]LogFMOD: Default sample rate = 48000
+[2019.05.31-18.12.24:908][  1]LogFMOD: System sample rate = 48000
+[2019.05.31-18.12.24:908][  1]LogFMOD: Matching system sample rate 48000
+[2019.05.31-18.12.25:011][  1]LogAssetRegistry: Asset discovery search completed in 6.8912 seconds
+[2019.05.31-18.12.25:016][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.31-18.12.25:016][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000334 seconds (updated 0 objects)
+[2019.05.31-18.13.18:933][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-18.13.22:725][608]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.31-18.13.23:635][608]LogAIModule: Creating AISystem for world TestMapGeometry
+[2019.05.31-18.13.23:688][608]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/TestMapGeometry.TestMapGeometry
+[2019.05.31-18.13.23:723][608]Cmd: MAP LOAD FILE="../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Content/Levels/TestMapGeometry.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.31-18.13.23:723][608]LightingResults: New page: Lighting Build
+[2019.05.31-18.13.23:724][608]LoadErrors: New page: Loading map: TestMapGeometry.umap
+[2019.05.31-18.13.23:725][608]MapCheck: New page: Map Check
+[2019.05.31-18.13.23:725][608]LightingResults: New page: Lighting Build
+[2019.05.31-18.13.23:973][608]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.31-18.13.24:030][608]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.31-18.13.24:031][608]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.369ms to complete.
+[2019.05.31-18.13.24:031][608]LogFileHelpers: Loading map 'TestMapGeometry' took 0.309
+[2019.05.31-18.13.34:087][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_4)
+[2019.05.31-18.13.40:911][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_01)
+[2019.05.31-18.13.46:728][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-18.13.50:614][274]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Foundation/wall01_B.wall01_B
+[2019.05.31-18.13.51:178][274]LogRenderer: Reallocating scene render targets to support 1208x636 Format 10 NumSamples 1 (Frame:1).
+[2019.05.31-18.13.51:178][274]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.31-18.13.56:987][732]LogSlate: Window 'wall01_B' being destroyed
+[2019.05.31-18.13.56:993][732]LogSlate: Window 'wall01_B' being destroyed
+[2019.05.31-18.14.00:917][ 92]LogEditorFactories: Performing atomic reimport of [C:/Users/Kylen/Desktop/Projects/19.05.21ExtraCreditsJam/scenes/wall_01.fbx]
+[2019.05.31-18.14.00:944][ 92]LogFbx: Loading FBX Scene from C:/Users/Kylen/Desktop/Projects/19.05.21ExtraCreditsJam/scenes/wall_01.fbx
+[2019.05.31-18.14.00:951][ 92]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.31-18.14.00:956][ 92]LogFbx: Warning: Triangulating static mesh pCube56_Ext_12
+[2019.05.31-18.14.00:968][ 92]LogStaticMesh: Building static mesh wall01_B...
+[2019.05.31-18.14.00:973][ 92]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Foundation/wall01_B.wall01_B
+[2019.05.31-18.14.00:983][ 92]LogEditorFactories: -- imported successfully
+[2019.05.31-18.14.01:976][181]Cmd: TRANSACTION UNDO
+[2019.05.31-18.14.01:977][181]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-18.14.04:285][360]LogEditorFactories: Performing atomic reimport of [C:/Users/Kylen/Desktop/Projects/19.05.21ExtraCreditsJam/scenes/wall_01.fbx]
+[2019.05.31-18.14.04:312][360]LogFbx: Loading FBX Scene from C:/Users/Kylen/Desktop/Projects/19.05.21ExtraCreditsJam/scenes/wall_01.fbx
+[2019.05.31-18.14.04:318][360]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.31-18.14.04:323][360]LogFbx: Warning: Triangulating static mesh pCube56_Ext_12
+[2019.05.31-18.14.04:334][360]LogStaticMesh: Building static mesh wall01_A...
+[2019.05.31-18.14.04:336][360]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Foundation/wall01_A.wall01_A
+[2019.05.31-18.14.04:345][360]LogEditorFactories: -- imported successfully
+[2019.05.31-18.14.11:048][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-18.14.11:247][970]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Foundation/wall01_B.wall01_B
+[2019.05.31-18.14.14:751][214]LogSlate: Window 'wall01_B*' being destroyed
+[2019.05.31-18.14.14:757][214]LogSlate: Window 'wall01_B*' being destroyed
+[2019.05.31-18.14.41:122][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-18.14.42:894][786]LogActorFactory: Actor Factory created wall01_A
+[2019.05.31-18.14.43:664][852]LogActorFactory: Actor Factory created wall01_A
+[2019.05.31-18.14.44:818][954]Cmd: DELETE
+[2019.05.31-18.14.44:818][954]Cmd: ACTOR DELETE
+[2019.05.31-18.14.44:866][954]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-18.14.44:892][954]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2019.05.31-18.14.51:996][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall01_B45)
+[2019.05.31-18.14.52:224][680]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.14.55:717][ 26]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2019.05.31-18.14.59:624][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall01_B47)
+[2019.05.31-18.15.04:955][949]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.15.06:249][ 78]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2019.05.31-18.15.09:541][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall01_B47)
+[2019.05.31-18.15.13:020][713]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2019.05.31-18.15.15:205][927]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.15.17:112][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-18.15.19:116][339]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.15.25:941][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_3)
+[2019.05.31-18.15.26:656][ 60]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.15.31:535][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_02A26)
+[2019.05.31-18.15.32:703][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_147)
+[2019.05.31-18.15.33:577][724]Cmd: DELETE
+[2019.05.31-18.15.33:577][724]Cmd: ACTOR DELETE
+[2019.05.31-18.15.33:624][724]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-18.15.33:649][724]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2019.05.31-18.15.36:618][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall01_B3)
+[2019.05.31-18.15.37:384][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_87)
+[2019.05.31-18.15.38:156][189]Cmd: DELETE
+[2019.05.31-18.15.38:157][189]Cmd: ACTOR DELETE
+[2019.05.31-18.15.38:206][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-18.15.38:232][189]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2019.05.31-18.15.39:672][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall01_B3)
+[2019.05.31-18.15.46:319][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_148)
+[2019.05.31-18.15.53:252][789]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall01_B3)
+[2019.05.31-18.16.28:129][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-18.16.29:812][364]LogEditorFactories: Performing atomic reimport of [C:/Users/Kylen/Desktop/Projects/19.05.21ExtraCreditsJam/scenes/wall_01.fbx]
+[2019.05.31-18.16.29:836][364]LogFbx: Loading FBX Scene from C:/Users/Kylen/Desktop/Projects/19.05.21ExtraCreditsJam/scenes/wall_01.fbx
+[2019.05.31-18.16.29:843][364]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.31-18.16.29:843][364]LogFbx: Warning: Triangulating static mesh pCube56_Ext_12
+[2019.05.31-18.16.29:853][364]LogStaticMesh: Building static mesh wall01_A...
+[2019.05.31-18.16.29:856][364]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Foundation/wall01_A.wall01_A
+[2019.05.31-18.16.29:863][364]LogEditorFactories: -- imported successfully
+[2019.05.31-18.16.33:557][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-18.16.35:144][903]LogEditorFactories: Performing atomic reimport of [C:/Users/Kylen/Desktop/Projects/19.05.21ExtraCreditsJam/scenes/wall_01.fbx]
+[2019.05.31-18.16.35:167][903]LogFbx: Loading FBX Scene from C:/Users/Kylen/Desktop/Projects/19.05.21ExtraCreditsJam/scenes/wall_01.fbx
+[2019.05.31-18.16.35:173][903]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.31-18.16.35:174][903]LogFbx: Warning: Triangulating static mesh pCube56_Ext_12
+[2019.05.31-18.16.35:184][903]LogStaticMesh: Building static mesh wall01_B...
+[2019.05.31-18.16.35:186][903]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Foundation/wall01_B.wall01_B
+[2019.05.31-18.16.35:192][903]LogEditorFactories: -- imported successfully
+[2019.05.31-18.16.43:026][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_3)
+[2019.05.31-18.16.45:636][850]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.16.49:938][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_02A3)
+[2019.05.31-18.16.52:848][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillar_01)
+[2019.05.31-18.16.55:147][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_02A9)
+[2019.05.31-18.16.59:199][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall01_B4)
+[2019.05.31-18.16.59:650][210]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.17.04:568][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_02A23)
+[2019.05.31-18.17.08:926][108]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall01_B)
+[2019.05.31-18.17.09:263][132]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.17.10:938][299]Cmd: DELETE
+[2019.05.31-18.17.10:938][299]Cmd: ACTOR DELETE
+[2019.05.31-18.17.10:985][299]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-18.17.11:012][299]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2019.05.31-18.17.15:050][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_18)
+[2019.05.31-18.17.21:272][397]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.17.33:547][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A16)
+[2019.05.31-18.17.36:783][ 38]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_8)
+[2019.05.31-18.17.38:091][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A16)
+[2019.05.31-18.17.39:679][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_8)
+[2019.05.31-18.17.42:830][659]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2019.05.31-18.17.45:905][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A18)
+[2019.05.31-18.17.46:820][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_8)
+[2019.05.31-18.17.49:429][340]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.17.54:646][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A8)
+[2019.05.31-18.17.59:403][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_9)
+[2019.05.31-18.18.01:684][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_17)
+[2019.05.31-18.18.04:549][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_19)
+[2019.05.31-18.18.04:732][874]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.18.10:982][512]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2019.05.31-18.18.16:732][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_19)
+[2019.05.31-18.18.19:518][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A18)
+[2019.05.31-18.18.20:623][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_19)
+[2019.05.31-18.18.21:808][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-18.18.28:050][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A16)
+[2019.05.31-18.18.41:473][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_9)
+[2019.05.31-18.18.43:251][803]Cmd: TRANSACTION UNDO
+[2019.05.31-18.18.43:251][803]LogEditorTransaction: Undo Move Actors
+[2019.05.31-18.18.49:520][423]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.19.01:581][696]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_9)
+[2019.05.31-18.19.05:846][140]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.31-18.19.09:916][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_9)
+[2019.05.31-18.19.23:791][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A18)
+[2019.05.31-18.19.31:208][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_2)
+[2019.05.31-18.19.34:006][326]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.19.41:621][180]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_02A4)
+[2019.05.31-18.19.44:918][551]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_2)
+[2019.05.31-18.19.47:227][805]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_02A4)
+[2019.05.31-18.19.56:735][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_10)
+[2019.05.31-18.19.57:251][933]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.20.01:044][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_17)
+[2019.05.31-18.20.04:007][703]Cmd: DELETE
+[2019.05.31-18.20.04:007][703]Cmd: ACTOR DELETE
+[2019.05.31-18.20.04:055][703]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-18.20.04:082][703]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2019.05.31-18.20.05:544][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_18)
+[2019.05.31-18.20.06:767][  8]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.20.21:472][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_02A17)
+[2019.05.31-18.20.21:986][733]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2019.05.31-18.20.26:344][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_10)
+[2019.05.31-18.20.28:421][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_10)
+[2019.05.31-18.20.30:538][704]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.20.34:078][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-18.20.37:637][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MiscTheater_counter_8)
+[2019.05.31-18.20.38:778][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_10)
+[2019.05.31-18.20.40:471][842]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MiscTheater_counter_8)
+[2019.05.31-18.20.42:211][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_10)
+[2019.05.31-18.20.47:181][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_10)
+[2019.05.31-18.20.51:666][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_02A18)
+[2019.05.31-18.20.52:775][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_01a17)
+[2019.05.31-18.20.54:522][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MiscTheater_counter_8)
+[2019.05.31-18.20.58:882][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_10)
+[2019.05.31-18.21.01:810][274]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_02A17)
+[2019.05.31-18.21.11:951][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_55)
+[2019.05.31-18.21.19:474][295]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.21.33:208][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MiscTheater_counter_3)
+[2019.05.31-18.21.33:499][900]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MiscTheater_counter_3)
+[2019.05.31-18.21.34:412][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_55)
+[2019.05.31-18.21.36:201][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MiscTheater_counter_3)
+[2019.05.31-18.21.36:518][234]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MiscTheater_counter_3)
+[2019.05.31-18.21.38:819][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A55)
+[2019.05.31-18.21.39:954][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MiscTheater_countertrim_01)
+[2019.05.31-18.21.42:758][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MiscTheater_counter_3)
+[2019.05.31-18.21.47:247][452]Cmd: TRANSACTION UNDO
+[2019.05.31-18.21.47:248][452]LogEditorTransaction: Undo Move Actors
+[2019.05.31-18.21.52:254][ 12]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_11)
+[2019.05.31-18.21.57:261][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_21)
+[2019.05.31-18.22.03:479][276]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.22.14:619][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_12)
+[2019.05.31-18.22.18:053][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_24)
+[2019.05.31-18.22.22:331][412]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2019.05.31-18.22.27:082][957]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_25)
+[2019.05.31-18.22.29:724][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_32)
+[2019.05.31-18.22.34:170][739]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.22.41:969][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A58)
+[2019.05.31-18.22.43:624][812]Cmd: TRANSACTION UNDO
+[2019.05.31-18.22.43:624][812]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-18.22.49:872][493]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2019.05.31-18.22.56:423][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_38)
+[2019.05.31-18.23.10:659][810]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.23.23:279][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A87)
+[2019.05.31-18.23.28:354][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_81)
+[2019.05.31-18.23.29:485][944]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.23.34:242][485]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.24.03:536][838]Cmd: TRANSACTION UNDO
+[2019.05.31-18.24.03:536][838]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-18.24.03:991][877]Cmd: TRANSACTION UNDO
+[2019.05.31-18.24.03:991][877]LogEditorTransaction: Undo Move Actors
+[2019.05.31-18.24.21:678][881]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.24.24:945][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-18.24.25:416][274]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.24.26:907][418]Cmd: TRANSACTION UNDO
+[2019.05.31-18.24.26:907][418]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-18.24.36:589][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A59)
+[2019.05.31-18.24.47:982][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_12)
+[2019.05.31-18.24.53:950][482]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere4)
+[2019.05.31-18.24.57:333][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_12)
+[2019.05.31-18.25.00:265][199]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A92)
+[2019.05.31-18.25.01:820][370]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere4)
+[2019.05.31-18.25.05:798][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_71)
+[2019.05.31-18.25.05:949][820]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.25.16:825][ 77]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_22)
+[2019.05.31-18.25.24:143][894]Cmd: TRANSACTION UNDO
+[2019.05.31-18.25.24:143][894]LogEditorTransaction: Undo Move Actors
+[2019.05.31-18.25.39:943][694]Cmd: TRANSACTION UNDO
+[2019.05.31-18.25.39:943][694]LogEditorTransaction: Undo Move Actors
+[2019.05.31-18.25.40:335][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A120)
+[2019.05.31-18.25.45:093][261]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_126)
+[2019.05.31-18.25.52:618][110]Cmd: TRANSACTION UNDO
+[2019.05.31-18.25.52:618][110]LogEditorTransaction: Undo Move Actors
+[2019.05.31-18.25.53:304][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A101)
+[2019.05.31-18.25.56:025][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_22)
+[2019.05.31-18.25.56:421][520]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.25.58:131][707]Cmd: TRANSACTION UNDO
+[2019.05.31-18.25.58:131][707]LogEditorTransaction: Undo Move Actors
+[2019.05.31-18.25.59:486][842]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_81)
+[2019.05.31-18.26.03:065][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_76)
+[2019.05.31-18.26.08:447][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_81)
+[2019.05.31-18.26.12:420][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_92)
+[2019.05.31-18.26.16:952][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A104)
+[2019.05.31-18.26.22:014][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_90)
+[2019.05.31-18.26.25:807][822]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_78)
+[2019.05.31-18.26.31:106][416]Cmd: TRANSACTION UNDO
+[2019.05.31-18.26.31:106][416]LogEditorTransaction: Undo Move Actors
+[2019.05.31-18.26.33:583][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_83)
+[2019.05.31-18.26.34:461][776]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.26.42:123][651]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2019.05.31-18.26.53:632][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_126)
+[2019.05.31-18.26.57:822][411]Cmd: DELETE
+[2019.05.31-18.26.57:822][411]Cmd: ACTOR DELETE
+[2019.05.31-18.26.57:881][411]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-18.26.57:906][411]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2019.05.31-18.26.59:367][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_127)
+[2019.05.31-18.27.07:039][367]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.27.34:557][499]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2019.05.31-18.27.40:335][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_127)
+[2019.05.31-18.27.42:372][361]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.27.48:506][ 56]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2019.05.31-18.27.50:403][269]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_127)
+[2019.05.31-18.27.52:207][465]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.28.01:532][524]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2019.05.31-18.28.04:456][852]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_76)
+[2019.05.31-18.28.08:724][314]Cmd: TRANSACTION UNDO
+[2019.05.31-18.28.08:724][314]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-18.28.13:705][852]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (wall_78)
+[2019.05.31-18.28.29:830][668]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2019.05.31-18.28.35:196][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_147)
+[2019.05.31-18.28.37:275][513]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.28.39:744][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A104)
+[2019.05.31-18.28.41:882][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_96)
+[2019.05.31-18.28.46:633][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_126)
+[2019.05.31-18.28.47:832][713]Cmd: TRANSACTION UNDO
+[2019.05.31-18.28.47:832][713]LogEditorTransaction: Undo Move Actors
+[2019.05.31-18.28.54:893][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A104)
+[2019.05.31-18.28.56:585][689]Cmd: TRANSACTION UNDO
+[2019.05.31-18.28.56:585][689]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-18.29.04:029][504]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_147)
+[2019.05.31-18.29.16:521][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_94)
+[2019.05.31-18.29.30:998][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_96)
+[2019.05.31-18.29.31:790][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A104)
+[2019.05.31-18.29.34:158][486]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere4)
+[2019.05.31-18.29.34:636][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_106)
+[2019.05.31-18.29.34:901][552]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.29.56:305][955]Cmd: TRANSACTION UNDO
+[2019.05.31-18.29.56:305][955]LogEditorTransaction: Undo Move Actors
+[2019.05.31-18.30.20:706][700]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (wall_106)
+[2019.05.31-18.30.28:665][603]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2019.05.31-18.30.29:315][673]Cmd: TRANSACTION UNDO
+[2019.05.31-18.30.29:315][673]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-18.30.32:868][ 52]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2019.05.31-18.30.33:509][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_106)
+[2019.05.31-18.30.34:493][224]Cmd: TRANSACTION UNDO
+[2019.05.31-18.30.34:493][224]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-18.30.35:341][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_106)
+[2019.05.31-18.30.36:348][409]Cmd: TRANSACTION UNDO
+[2019.05.31-18.30.36:348][409]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-18.30.36:870][462]Cmd: TRANSACTION UNDO
+[2019.05.31-18.30.36:870][462]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-18.30.43:634][218]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2019.05.31-18.30.55:140][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_130)
+[2019.05.31-18.31.08:329][980]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2019.05.31-18.31.10:073][175]Cmd: TRANSACTION UNDO
+[2019.05.31-18.31.10:073][175]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-18.31.14:454][648]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2019.05.31-18.31.17:503][990]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_122)
+[2019.05.31-18.31.19:579][213]Cmd: DELETE
+[2019.05.31-18.31.19:579][213]Cmd: ACTOR DELETE
+[2019.05.31-18.31.19:629][213]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-18.31.19:656][213]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2019.05.31-18.31.20:004][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_123)
+[2019.05.31-18.31.20:081][256]Cmd: DELETE
+[2019.05.31-18.31.20:082][256]Cmd: ACTOR DELETE
+[2019.05.31-18.31.20:131][256]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-18.31.20:156][256]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2019.05.31-18.31.28:633][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_142)
+[2019.05.31-18.31.36:690][147]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.31.42:202][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A112)
+[2019.05.31-18.31.50:173][660]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_124)
+[2019.05.31-18.32.19:957][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_137)
+[2019.05.31-18.32.20:599][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A119)
+[2019.05.31-18.32.22:195][893]Cmd: TRANSACTION UNDO
+[2019.05.31-18.32.22:195][893]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-18.32.22:899][948]Cmd: TRANSACTION UNDO
+[2019.05.31-18.32.22:899][948]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-18.32.27:015][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A119)
+[2019.05.31-18.32.27:661][439]Cmd: TRANSACTION UNDO
+[2019.05.31-18.32.27:661][439]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-18.32.28:009][460]Cmd: TRANSACTION UNDO
+[2019.05.31-18.32.28:009][460]LogEditorTransaction: Undo Move Actors
+[2019.05.31-18.32.28:950][551]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A132)
+[2019.05.31-18.33.05:522][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_73)
+[2019.05.31-18.33.06:305][638]Cmd: DELETE
+[2019.05.31-18.33.06:305][638]Cmd: ACTOR DELETE
+[2019.05.31-18.33.06:356][638]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-18.33.06:380][638]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2019.05.31-18.33.07:104][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_144)
+[2019.05.31-18.33.07:256][734]Cmd: DELETE
+[2019.05.31-18.33.07:256][734]Cmd: ACTOR DELETE
+[2019.05.31-18.33.07:308][734]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-18.33.07:333][734]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2019.05.31-18.33.08:675][893]Cmd: TRANSACTION UNDO
+[2019.05.31-18.33.08:675][893]LogEditorTransaction: Undo Delete Actors
+[2019.05.31-18.33.12:118][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_139)
+[2019.05.31-18.33.12:841][341]Cmd: DELETE
+[2019.05.31-18.33.12:841][341]Cmd: ACTOR DELETE
+[2019.05.31-18.33.12:887][341]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-18.33.12:913][341]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2019.05.31-18.33.13:362][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_140)
+[2019.05.31-18.33.13:519][405]Cmd: DELETE
+[2019.05.31-18.33.13:519][405]Cmd: ACTOR DELETE
+[2019.05.31-18.33.13:570][405]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-18.33.13:596][405]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2019.05.31-18.33.15:712][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_120)
+[2019.05.31-18.33.15:789][620]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.33.21:234][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_81)
+[2019.05.31-18.33.24:664][602]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.33.36:571][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_21)
+[2019.05.31-18.33.44:580][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-18.33.44:638][890]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.31-18.33.44:654][890]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry' with GeneratedClass '/Game/Levels/TestMapGeometry.TestMapGeometry_C' with ClassGeneratedBy '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry'
+[2019.05.31-18.33.44:696][890]LogFMOD: Creating runtime Studio System
+[2019.05.31-18.33.44:702][890]LogFMOD: Default sample rate = 48000
+[2019.05.31-18.33.44:702][890]LogFMOD: System sample rate = 48000
+[2019.05.31-18.33.44:702][890]LogFMOD: Matching system sample rate 48000
+[2019.05.31-18.33.44:716][890]LogFMOD: Loading Banks
+[2019.05.31-18.33.44:758][890]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.31-18.33.44:758][890]PIE: New page: PIE session: TestMapGeometry (May 31, 2019, 6:33:44 AM)
+[2019.05.31-18.33.44:771][890]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMapGeometry
+[2019.05.31-18.33.44:865][890]LogPlayLevel: PIE: StaticDuplicateObject took: (0.092872s)
+[2019.05.31-18.33.44:865][890]LogAIModule: Creating AISystem for world TestMapGeometry
+[2019.05.31-18.33.44:866][890]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2019.05.31-18.33.44:866][890]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMapGeometry.TestMapGeometry to /Game/Levels/UEDPIE_0_TestMapGeometry.TestMapGeometry (0.094710s)
+[2019.05.31-18.33.44:940][890]LogInit: XAudio2 using 'DELL S2415H-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.31-18.33.44:950][890]LogInit: FAudioDevice initialized.
+[2019.05.31-18.33.44:995][890]LogLoad: Game class is 'BP_GameMode_C'
+[2019.05.31-18.33.45:030][890]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMapGeometry.TestMapGeometry up for play (max tick rate 0) at 2019.05.31-12.33.45
+[2019.05.31-18.33.45:031][890]LogWorld: Bringing up level for play took: 0.034741
+[2019.05.31-18.33.45:050][890]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.05.31-18.33.45:053][890]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMapGeometry 0.042
+[2019.05.31-18.33.45:053][890]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry' with GeneratedClass '/Game/Levels/TestMapGeometry.TestMapGeometry_C' with ClassGeneratedBy '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry'
+[2019.05.31-18.34.29:928][216]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry' with GeneratedClass '/Game/Levels/TestMapGeometry.TestMapGeometry_C' with ClassGeneratedBy '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry'
+[2019.05.31-18.34.30:033][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-18.34.30:078][216]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.31-18.34.30:078][216]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry' with GeneratedClass '/Game/Levels/TestMapGeometry.TestMapGeometry_C' with ClassGeneratedBy '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry'
+[2019.05.31-18.34.30:114][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-18.34.30:143][217]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.05.31-18.34.33:392][600]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_7)
+[2019.05.31-18.34.35:201][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_2)
+[2019.05.31-18.34.38:779][203]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.34.42:268][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-18.34.42:427][592]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Foundation/wall01_B.wall01_B
+[2019.05.31-18.34.44:791][753]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Foundation/wall01_A.wall01_A
+[2019.05.31-18.34.48:669][ 45]LogSlate: Window 'wall01_A*' being destroyed
+[2019.05.31-18.34.48:677][ 45]LogSlate: Window 'wall01_A*' being destroyed
+[2019.05.31-18.35.00:689][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-18.35.00:794][392]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.31-18.35.00:809][392]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry' with GeneratedClass '/Game/Levels/TestMapGeometry.TestMapGeometry_C' with ClassGeneratedBy '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry'
+[2019.05.31-18.35.00:842][392]LogFMOD: Creating runtime Studio System
+[2019.05.31-18.35.00:848][392]LogFMOD: Default sample rate = 48000
+[2019.05.31-18.35.00:848][392]LogFMOD: System sample rate = 48000
+[2019.05.31-18.35.00:848][392]LogFMOD: Matching system sample rate 48000
+[2019.05.31-18.35.00:860][392]LogFMOD: Loading Banks
+[2019.05.31-18.35.00:903][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.31-18.35.00:903][392]PIE: New page: PIE session: TestMapGeometry (May 31, 2019, 6:35:00 AM)
+[2019.05.31-18.35.00:903][392]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMapGeometry
+[2019.05.31-18.35.00:992][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.089152s)
+[2019.05.31-18.35.00:993][392]LogAIModule: Creating AISystem for world TestMapGeometry
+[2019.05.31-18.35.00:993][392]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2019.05.31-18.35.00:994][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMapGeometry.TestMapGeometry to /Game/Levels/UEDPIE_0_TestMapGeometry.TestMapGeometry (0.090659s)
+[2019.05.31-18.35.01:071][392]LogInit: XAudio2 using 'DELL S2415H-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.31-18.35.01:080][392]LogInit: FAudioDevice initialized.
+[2019.05.31-18.35.01:113][392]LogLoad: Game class is 'BP_GameMode_C'
+[2019.05.31-18.35.01:149][392]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMapGeometry.TestMapGeometry up for play (max tick rate 0) at 2019.05.31-12.35.01
+[2019.05.31-18.35.01:151][392]LogWorld: Bringing up level for play took: 0.036362
+[2019.05.31-18.35.01:166][392]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMapGeometry 0.155
+[2019.05.31-18.35.01:167][392]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry' with GeneratedClass '/Game/Levels/TestMapGeometry.TestMapGeometry_C' with ClassGeneratedBy '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry'
+[2019.05.31-18.35.08:491][255]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry' with GeneratedClass '/Game/Levels/TestMapGeometry.TestMapGeometry_C' with ClassGeneratedBy '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry'
+[2019.05.31-18.35.08:586][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-18.35.08:632][255]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.31-18.35.08:632][255]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry' with GeneratedClass '/Game/Levels/TestMapGeometry.TestMapGeometry_C' with ClassGeneratedBy '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry'
+[2019.05.31-18.35.08:666][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-18.35.08:696][256]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.05.31-18.35.52:529][429]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.31-18.35.54:148][429]LogSavePackage: Moving '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/TestMapGeometry_Auto1DE7880C441BCCE5D08F032A37EE9F1E6.tmp' to '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Autosaves/Game/Levels/TestMapGeometry_Auto1.umap'
+[2019.05.31-18.35.54:159][429]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMapGeometry' took 1.615
+[2019.05.31-18.35.54:159][429]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.615
+[2019.05.31-18.35.54:163][429]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Foundation/wall01_A] ([1] browsable assets)...
+[2019.05.31-18.35.54:177][429]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Foundation/wall01_A.wall01_A]
+[2019.05.31-18.35.54:177][429]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Foundation/wall01_A]
+[2019.05.31-18.35.54:224][429]LogSavePackage: Moving '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/wall01_A_Auto17B27994949D1B4FE124FFABD5AE7A5FC.tmp' to '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Autosaves/Game/Geometry/Foundation/wall01_A_Auto1.uasset'
+[2019.05.31-18.35.54:227][429]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Foundation/wall01_B] ([1] browsable assets)...
+[2019.05.31-18.35.54:238][429]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Foundation/wall01_B.wall01_B]
+[2019.05.31-18.35.54:238][429]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Foundation/wall01_B]
+[2019.05.31-18.35.54:283][429]LogSavePackage: Moving '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/wall01_B_Auto1B758F201455612BD6B78F185AA8A2549.tmp' to '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Autosaves/Game/Geometry/Foundation/wall01_B_Auto1.uasset'
+[2019.05.31-18.35.54:292][429]LogFileHelpers: Auto-saving content packages took 0.130
+[2019.05.31-18.39.09:200][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-18.39.09:355][687]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Foundation/wall01_A.wall01_A
+[2019.05.31-18.39.11:048][813]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Materials/Walls/Walls01_A.Walls01_A
+[2019.05.31-18.39.13:468][ 31]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Textures/Walls/wall_01_Wall01_A_BaseColor.wall_01_Wall01_A_BaseColor
+[2019.05.31-18.39.13:478][ 31]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.05.31-18.39.14:536][122]LogEditorFactories: Performing atomic reimport of [C:/Users/Kylen/Desktop/Projects/19.05.21ExtraCreditsJam/sourceimages/Foundation/Walls/wall_01_Wall01_A_BaseColor.png]
+[2019.05.31-18.39.14:537][122]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Kylen/Desktop/Projects/19.05.21ExtraCreditsJam/sourceimages/Foundation/Walls/wall_01_Wall01_A_BaseColor.png)
+[2019.05.31-18.39.14:576][122]LogTexture: Display: Building textures: wall_01_Wall01_A_BaseColor (BGRA8, 1024X1024)
+[2019.05.31-18.39.14:668][122]LogEditorFactories: -- imported successfully
+[2019.05.31-18.39.15:968][221]LogTexture: Display: Building textures: wall_01_Wall01_A_BaseColor (AutoDXT, 1024X1024)
+[2019.05.31-18.39.16:096][221]LogSavePackage: Moving '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/wall_01_Wall01_A_BaseColor62AA39A148218034EE8310BD5B4EBF9F.tmp' to '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Content/Textures/Walls/wall_01_Wall01_A_BaseColor.uasset'
+[2019.05.31-18.39.17:277][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-18.39.17:343][345]LogSlate: Window 'wall_01_Wall01_A_BaseColor' being destroyed
+[2019.05.31-18.39.17:347][345]LogSlate: Window 'wall_01_Wall01_A_BaseColor' being destroyed
+[2019.05.31-18.39.18:997][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-18.39.19:077][501]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.31-18.39.19:097][501]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry' with GeneratedClass '/Game/Levels/TestMapGeometry.TestMapGeometry_C' with ClassGeneratedBy '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry'
+[2019.05.31-18.39.19:123][501]LogFMOD: Creating runtime Studio System
+[2019.05.31-18.39.19:128][501]LogFMOD: Default sample rate = 48000
+[2019.05.31-18.39.19:128][501]LogFMOD: System sample rate = 48000
+[2019.05.31-18.39.19:128][501]LogFMOD: Matching system sample rate 48000
+[2019.05.31-18.39.19:141][501]LogFMOD: Loading Banks
+[2019.05.31-18.39.19:184][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.31-18.39.19:184][501]PIE: New page: PIE session: TestMapGeometry (May 31, 2019, 6:39:19 AM)
+[2019.05.31-18.39.19:184][501]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMapGeometry
+[2019.05.31-18.39.19:271][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.087332s)
+[2019.05.31-18.39.19:272][501]LogAIModule: Creating AISystem for world TestMapGeometry
+[2019.05.31-18.39.19:272][501]LogPlayLevel: PIE: World Init took: (0.000764s)
+[2019.05.31-18.39.19:273][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMapGeometry.TestMapGeometry to /Game/Levels/UEDPIE_0_TestMapGeometry.TestMapGeometry (0.088554s)
+[2019.05.31-18.39.19:351][501]LogInit: XAudio2 using 'DELL S2415H-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.31-18.39.19:364][501]LogInit: FAudioDevice initialized.
+[2019.05.31-18.39.19:394][501]LogLoad: Game class is 'BP_GameMode_C'
+[2019.05.31-18.39.19:427][501]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMapGeometry.TestMapGeometry up for play (max tick rate 0) at 2019.05.31-12.39.19
+[2019.05.31-18.39.19:428][501]LogWorld: Bringing up level for play took: 0.034958
+[2019.05.31-18.39.19:443][501]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMapGeometry 0.433
+[2019.05.31-18.39.19:443][501]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry' with GeneratedClass '/Game/Levels/TestMapGeometry.TestMapGeometry_C' with ClassGeneratedBy '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry'
+[2019.05.31-18.40.05:386][736]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry' with GeneratedClass '/Game/Levels/TestMapGeometry.TestMapGeometry_C' with ClassGeneratedBy '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry'
+[2019.05.31-18.40.05:478][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-18.40.05:523][736]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.31-18.40.05:523][736]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry' with GeneratedClass '/Game/Levels/TestMapGeometry.TestMapGeometry_C' with ClassGeneratedBy '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry'
+[2019.05.31-18.40.05:556][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-18.40.05:578][737]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.05.31-18.41.01:158][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-18.41.01:320][392]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Foundation/wall01_A.wall01_A
+[2019.05.31-18.41.02:905][500]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Materials/Walls/Walls01_A.Walls01_A
+[2019.05.31-18.41.03:715][561]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Textures/Walls/wall_01_Wall01_A_BaseColor.wall_01_Wall01_A_BaseColor
+[2019.05.31-18.41.04:799][653]LogEditorFactories: Performing atomic reimport of [C:/Users/Kylen/Desktop/Projects/19.05.21ExtraCreditsJam/sourceimages/Foundation/Walls/wall_01_Wall01_A_BaseColor.png]
+[2019.05.31-18.41.04:800][653]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Kylen/Desktop/Projects/19.05.21ExtraCreditsJam/sourceimages/Foundation/Walls/wall_01_Wall01_A_BaseColor.png)
+[2019.05.31-18.41.04:831][653]LogTexture: Display: Building textures: wall_01_Wall01_A_BaseColor (BGRA8, 1024X1024)
+[2019.05.31-18.41.04:906][653]LogEditorFactories: -- imported successfully
+[2019.05.31-18.41.06:119][748]LogTexture: Display: Building textures: wall_01_Wall01_A_BaseColor (AutoDXT, 1024X1024)
+[2019.05.31-18.41.06:239][748]LogSavePackage: Moving '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/wall_01_Wall01_A_BaseColor00A60700458ECAC3523684877E65F7FF.tmp' to '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Content/Textures/Walls/wall_01_Wall01_A_BaseColor.uasset'
+[2019.05.31-18.41.07:488][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-18.41.07:576][875]LogSlate: Window 'wall_01_Wall01_A_BaseColor' being destroyed
+[2019.05.31-18.41.07:581][875]LogSlate: Window 'wall_01_Wall01_A_BaseColor' being destroyed
+[2019.05.31-18.41.09:631][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.31-18.41.16:951][788]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_3)
+[2019.05.31-18.41.17:651][837]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.41.31:441][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall01_B39)
+[2019.05.31-18.41.32:302][304]Cmd: DELETE
+[2019.05.31-18.41.32:302][304]Cmd: ACTOR DELETE
+[2019.05.31-18.41.32:349][304]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-18.41.32:376][304]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2019.05.31-18.41.35:815][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall01_B45)
+[2019.05.31-18.41.36:079][679]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.41.37:204][788]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall01_B47)
+[2019.05.31-18.41.43:994][473]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall01_B45)
+[2019.05.31-18.41.56:844][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_02A29)
+[2019.05.31-18.41.57:255][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_02A29)
+[2019.05.31-18.41.59:793][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fishtang_pillar2)
+[2019.05.31-18.42.00:367][109]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fishtang_wall3)
+[2019.05.31-18.42.02:659][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fishtang_pillar2)
+[2019.05.31-18.42.07:822][796]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2019.05.31-18.42.11:193][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fishtang_pillar2)
+[2019.05.31-18.42.13:409][351]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2019.05.31-18.42.27:630][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fishtang_pillar2)
+[2019.05.31-18.42.36:875][664]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2019.05.31-18.42.37:911][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fishtang_pillar2)
+[2019.05.31-18.42.39:833][943]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_02A36)
+[2019.05.31-18.42.40:411][992]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2019.05.31-18.42.44:843][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fishtang_pillar01)
+[2019.05.31-18.42.45:228][450]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-18.42.52:128][124]Cmd: TRANSACTION UNDO
+[2019.05.31-18.42.52:129][124]LogEditorTransaction: Undo Move Actors
+[2019.05.31-18.43.04:042][324]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2019.05.31-18.43.07:710][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_89)
+[2019.05.31-18.43.24:149][441]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere5)
+[2019.05.31-18.43.33:078][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fishtang_wall2)
+[2019.05.31-18.46.42:955][981]LogSavePackage: Moving '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/TestMapGeometry_Auto27BCF9AC844809001D6C302A6212FF1E4.tmp' to '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Autosaves/Game/Levels/TestMapGeometry_Auto2.umap'
+[2019.05.31-18.46.42:963][981]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMapGeometry' took 1.832
+[2019.05.31-18.46.42:963][981]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.832
+[2019.05.31-18.58.02:563][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-18.59.01:017][358]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Kylen/Desktop/Projects/19.05.21ExtraCreditsJam/sourceimages/Foundation/Walls/wall_07_wall07_B_BaseColor.png)
+[2019.05.31-18.59.01:059][358]LogTexture: Display: Building textures: wall_07_wall07_B_BaseColor (AutoDXT, 1024X1024)
+[2019.05.31-18.59.01:447][358]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Kylen/Desktop/Projects/19.05.21ExtraCreditsJam/sourceimages/Foundation/Walls/wall_07_wall07_B_Normal.png)
+[2019.05.31-18.59.01:512][358]LogTexture: Display: Building textures: wall_07_wall07_B_Normal (BC5, 1024X1024)
+[2019.05.31-18.59.01:675][358]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Kylen/Desktop/Projects/19.05.21ExtraCreditsJam/sourceimages/Foundation/Walls/wall_07_wall07_B_OcclusionRoughnessMetallic.png)
+[2019.05.31-18.59.01:716][358]LogTexture: Display: Building textures: wall_07_wall07_B_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2019.05.31-18.59.05:276][650]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMapGeometry' took 0.025
+[2019.05.31-18.59.05:277][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Foundation/wall07_A] ([1] browsable assets)...
+[2019.05.31-18.59.05:287][650]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Foundation/wall07_A.wall07_A]
+[2019.05.31-18.59.05:287][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Foundation/wall07_A]
+[2019.05.31-18.59.05:306][650]LogSavePackage: Moving '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/wall07_A_Auto3D08ED509442411FE623A0DAC84349EC9.tmp' to '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Autosaves/Game/Geometry/Foundation/wall07_A_Auto3.uasset'
+[2019.05.31-18.59.05:309][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Walls/wall_07_wall07_B_BaseColor] ([1] browsable assets)...
+[2019.05.31-18.59.05:316][650]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Walls/wall_07_wall07_B_BaseColor.wall_07_wall07_B_BaseColor]
+[2019.05.31-18.59.05:316][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Walls/wall_07_wall07_B_BaseColor]
+[2019.05.31-18.59.05:332][650]LogSavePackage: Moving '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/wall_07_wall07_B_BaseColor_Auto3B46D84144C9CB1CF0ABBF0B538416712.tmp' to '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Autosaves/Game/Textures/Walls/wall_07_wall07_B_BaseColor_Auto3.uasset'
+[2019.05.31-18.59.05:335][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Walls/wall_07_wall07_B_Normal] ([1] browsable assets)...
+[2019.05.31-18.59.05:343][650]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Walls/wall_07_wall07_B_Normal.wall_07_wall07_B_Normal]
+[2019.05.31-18.59.05:343][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Walls/wall_07_wall07_B_Normal]
+[2019.05.31-18.59.05:362][650]LogSavePackage: Moving '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/wall_07_wall07_B_Normal_Auto34916909F4D0CDA3FE636E2A515A9CD6C.tmp' to '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Autosaves/Game/Textures/Walls/wall_07_wall07_B_Normal_Auto3.uasset'
+[2019.05.31-18.59.05:365][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Walls/wall_07_wall07_B_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2019.05.31-18.59.05:372][650]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Walls/wall_07_wall07_B_OcclusionRoughnessMetallic.wall_07_wall07_B_OcclusionRoughnessMetallic]
+[2019.05.31-18.59.05:372][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Walls/wall_07_wall07_B_OcclusionRoughnessMetallic]
+[2019.05.31-18.59.05:387][650]LogSavePackage: Moving '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/wall_07_wall07_B_OcclusionRoughn14991915414541115A21919573A71DC0.tmp' to '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Autosaves/Game/Textures/Walls/wall_07_wall07_B_OcclusionRoughnessMetallic_Auto3.uasset'
+[2019.05.31-18.59.05:390][650]LogFileHelpers: Auto-saving content packages took 0.112
+[2019.05.31-18.59.21:012][956]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Materials/Walls/Walls07_A.Walls07_A
+[2019.05.31-18.59.24:570][275]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Textures/Walls/wall_01_Wall01_B_BaseColor.wall_01_Wall01_B_BaseColor
+[2019.05.31-18.59.39:794][799]LogSlate: Window 'wall_01_Wall01_B_BaseColor' being destroyed
+[2019.05.31-18.59.39:800][799]LogSlate: Window 'wall_01_Wall01_B_BaseColor' being destroyed
+[2019.05.31-18.59.39:858][799]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Walls07_A, compiling. 
+[2019.05.31-18.59.40:484][799]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.31-18.59.40:486][799]TextureStreamingBuild: Display: Compiling optional shaders took 0.639 seconds.
+[2019.05.31-18.59.41:838][896]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Materials/Walls/Walls07_A.Walls07_A
+[2019.05.31-19.00.01:681][447]LogSlate: Window 'Save Asset As' being destroyed
+[2019.05.31-19.00.09:430][ 97]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Textures/Walls/wall_07_wall07_B_OcclusionRoughnessMetallic.wall_07_wall07_B_OcclusionRoughnessMetallic
+[2019.05.31-19.00.10:777][209]LogTexture: Display: Building textures: wall_07_wall07_B_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2019.05.31-19.00.11:198][209]LogMaterial: Display: Missing cached shader map for material MAT_MasterSubstance, compiling. 
+[2019.05.31-19.00.11:271][209]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.31-19.00.11:271][209]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.31-19.00.11:271][209]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.31-19.00.12:880][336]LogSavePackage: Moving '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/wall_07_wall07_B_OcclusionRoughn40B920D74B4E779BFC7F1CB01DB6EAD4.tmp' to '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Content/Textures/Walls/wall_07_wall07_B_OcclusionRoughnessMetallic.uasset'
+[2019.05.31-19.00.15:811][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Walls/Walls07_A" FILE="../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Content/Materials/Walls/Walls07_A.uasset" SILENT=true
+[2019.05.31-19.00.15:851][576]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Walls07_A, compiling. 
+[2019.05.31-19.00.16:721][576]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.31-19.00.16:722][576]TextureStreamingBuild: Display: Compiling optional shaders took 0.877 seconds.
+[2019.05.31-19.00.16:773][576]LogSavePackage: Moving '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/Walls07_AF5696D704B58F83E8F20B1A2FF455A96.tmp' to '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Content/Materials/Walls/Walls07_A.uasset'
+[2019.05.31-19.00.23:958][ 60]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Foundation/wall07_A.wall07_A
+[2019.05.31-19.00.31:245][533]LogSavePackage: Moving '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/wall07_A27D636BF47F8AA35974593940F3CE0C4.tmp' to '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Content/Geometry/Foundation/wall07_A.uasset'
+[2019.05.31-19.00.34:624][786]LogSlate: Window 'wall07_A' being destroyed
+[2019.05.31-19.00.34:634][786]LogSlate: Window 'wall07_A' being destroyed
+[2019.05.31-19.00.35:792][868]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_01)
+[2019.05.31-19.00.36:114][888]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-19.00.45:574][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-19.00.45:862][818]LogActorFactory: Actor Factory created wall07_A
+[2019.05.31-19.00.47:526][964]LogActorFactory: Actor Factory created wall07_A
+[2019.05.31-19.00.48:552][ 50]LogActorFactory: Actor Factory created wall07_A
+[2019.05.31-19.01.07:180][979]Cmd: DELETE
+[2019.05.31-19.01.07:180][979]Cmd: ACTOR DELETE
+[2019.05.31-19.01.07:231][979]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.01.07:257][979]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2019.05.31-19.01.07:825][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A)
+[2019.05.31-19.01.09:144][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-19.01.10:946][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A)
+[2019.05.31-19.01.21:032][423]Cmd: TRANSACTION UNDO
+[2019.05.31-19.01.21:032][423]LogEditorTransaction: Undo Rotate Actors
+[2019.05.31-19.01.26:851][  1]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (wall07_A2)
+[2019.05.31-19.01.26:890][  1]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.31-19.01.30:041][250]Cmd: ACTOR MIRROR X=-1
+[2019.05.31-19.01.31:094][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A2)
+[2019.05.31-19.01.35:003][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_02A)
+[2019.05.31-19.01.39:530][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A2)
+[2019.05.31-19.01.44:405][667]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-19.01.49:234][173]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.31-19.01.54:564][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A59)
+[2019.05.31-19.01.55:556][873]Cmd: TRANSACTION UNDO
+[2019.05.31-19.01.55:556][873]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-19.02.11:592][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_56)
+[2019.05.31-19.02.13:020][793]Cmd: DELETE
+[2019.05.31-19.02.13:020][793]Cmd: ACTOR DELETE
+[2019.05.31-19.02.13:070][793]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.02.13:096][793]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2019.05.31-19.02.13:779][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A)
+[2019.05.31-19.02.21:280][696]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A)
+[2019.05.31-19.02.27:684][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A54)
+[2019.05.31-19.02.33:372][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A)
+[2019.05.31-19.02.35:230][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_80)
+[2019.05.31-19.02.37:939][560]Cmd: DELETE
+[2019.05.31-19.02.37:939][560]Cmd: ACTOR DELETE
+[2019.05.31-19.02.37:989][560]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.02.38:012][560]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2019.05.31-19.02.39:432][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_58)
+[2019.05.31-19.02.40:365][826]Cmd: DELETE
+[2019.05.31-19.02.40:365][826]Cmd: ACTOR DELETE
+[2019.05.31-19.02.40:416][826]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.02.40:439][826]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2019.05.31-19.02.40:854][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_54)
+[2019.05.31-19.02.41:434][931]Cmd: DELETE
+[2019.05.31-19.02.41:434][931]Cmd: ACTOR DELETE
+[2019.05.31-19.02.41:486][931]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.02.41:511][931]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2019.05.31-19.02.43:382][149]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A)
+[2019.05.31-19.02.48:547][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A60)
+[2019.05.31-19.03.02:981][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-19.03.03:080][355]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.31-19.03.03:095][355]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry' with GeneratedClass '/Game/Levels/TestMapGeometry.TestMapGeometry_C' with ClassGeneratedBy '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry'
+[2019.05.31-19.03.03:121][355]LogFMOD: Creating runtime Studio System
+[2019.05.31-19.03.03:126][355]LogFMOD: Default sample rate = 48000
+[2019.05.31-19.03.03:126][355]LogFMOD: System sample rate = 48000
+[2019.05.31-19.03.03:126][355]LogFMOD: Matching system sample rate 48000
+[2019.05.31-19.03.03:138][355]LogFMOD: Loading Banks
+[2019.05.31-19.03.03:181][355]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.31-19.03.03:181][355]PIE: New page: PIE session: TestMapGeometry (May 31, 2019, 7:03:03 AM)
+[2019.05.31-19.03.03:181][355]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMapGeometry
+[2019.05.31-19.03.03:274][355]LogPlayLevel: PIE: StaticDuplicateObject took: (0.092378s)
+[2019.05.31-19.03.03:274][355]LogAIModule: Creating AISystem for world TestMapGeometry
+[2019.05.31-19.03.03:275][355]LogPlayLevel: PIE: World Init took: (0.001188s)
+[2019.05.31-19.03.03:275][355]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMapGeometry.TestMapGeometry to /Game/Levels/UEDPIE_0_TestMapGeometry.TestMapGeometry (0.094140s)
+[2019.05.31-19.03.03:351][355]LogInit: XAudio2 using 'DELL S2415H-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.31-19.03.03:360][355]LogInit: FAudioDevice initialized.
+[2019.05.31-19.03.03:391][355]LogLoad: Game class is 'BP_GameMode_C'
+[2019.05.31-19.03.03:425][355]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMapGeometry.TestMapGeometry up for play (max tick rate 0) at 2019.05.31-13.03.03
+[2019.05.31-19.03.03:427][355]LogWorld: Bringing up level for play took: 0.036671
+[2019.05.31-19.03.03:442][355]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMapGeometry 0.432
+[2019.05.31-19.03.03:443][355]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry' with GeneratedClass '/Game/Levels/TestMapGeometry.TestMapGeometry_C' with ClassGeneratedBy '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry'
+[2019.05.31-19.03.20:208][332]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry' with GeneratedClass '/Game/Levels/TestMapGeometry.TestMapGeometry_C' with ClassGeneratedBy '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry'
+[2019.05.31-19.03.20:313][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-19.03.20:362][332]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.31-19.03.20:363][332]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry' with GeneratedClass '/Game/Levels/TestMapGeometry.TestMapGeometry_C' with ClassGeneratedBy '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry'
+[2019.05.31-19.03.20:393][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-19.03.20:416][333]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.05.31-19.03.23:040][639]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_26)
+[2019.05.31-19.03.23:815][718]Cmd: DELETE
+[2019.05.31-19.03.23:815][718]Cmd: ACTOR DELETE
+[2019.05.31-19.03.23:867][718]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.03.23:893][718]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2019.05.31-19.03.26:338][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-19.03.26:404][ 15]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.31-19.03.26:421][ 15]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry' with GeneratedClass '/Game/Levels/TestMapGeometry.TestMapGeometry_C' with ClassGeneratedBy '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry'
+[2019.05.31-19.03.26:463][ 15]LogFMOD: Creating runtime Studio System
+[2019.05.31-19.03.26:469][ 15]LogFMOD: Default sample rate = 48000
+[2019.05.31-19.03.26:469][ 15]LogFMOD: System sample rate = 48000
+[2019.05.31-19.03.26:469][ 15]LogFMOD: Matching system sample rate 48000
+[2019.05.31-19.03.26:481][ 15]LogFMOD: Loading Banks
+[2019.05.31-19.03.26:523][ 15]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.31-19.03.26:523][ 15]PIE: New page: PIE session: TestMapGeometry (May 31, 2019, 7:03:26 AM)
+[2019.05.31-19.03.26:523][ 15]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMapGeometry
+[2019.05.31-19.03.26:612][ 15]LogPlayLevel: PIE: StaticDuplicateObject took: (0.089171s)
+[2019.05.31-19.03.26:613][ 15]LogAIModule: Creating AISystem for world TestMapGeometry
+[2019.05.31-19.03.26:613][ 15]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2019.05.31-19.03.26:614][ 15]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMapGeometry.TestMapGeometry to /Game/Levels/UEDPIE_0_TestMapGeometry.TestMapGeometry (0.090319s)
+[2019.05.31-19.03.26:687][ 15]LogInit: XAudio2 using 'DELL S2415H-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.31-19.03.26:696][ 15]LogInit: FAudioDevice initialized.
+[2019.05.31-19.03.26:731][ 15]LogLoad: Game class is 'BP_GameMode_C'
+[2019.05.31-19.03.26:766][ 15]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMapGeometry.TestMapGeometry up for play (max tick rate 0) at 2019.05.31-13.03.26
+[2019.05.31-19.03.26:767][ 15]LogWorld: Bringing up level for play took: 0.035826
+[2019.05.31-19.03.26:783][ 15]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMapGeometry -0.227
+[2019.05.31-19.03.26:784][ 15]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry' with GeneratedClass '/Game/Levels/TestMapGeometry.TestMapGeometry_C' with ClassGeneratedBy '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry'
+[2019.05.31-19.03.32:503][688]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry' with GeneratedClass '/Game/Levels/TestMapGeometry.TestMapGeometry_C' with ClassGeneratedBy '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry'
+[2019.05.31-19.03.32:593][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-19.03.32:644][688]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.31-19.03.32:644][688]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry' with GeneratedClass '/Game/Levels/TestMapGeometry.TestMapGeometry_C' with ClassGeneratedBy '/Game/Levels/TestMapGeometry.TestMapGeometry:PersistentLevel.TestMapGeometry'
+[2019.05.31-19.03.32:673][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-19.03.32:704][689]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.05.31-19.03.50:244][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_148)
+[2019.05.31-19.03.53:560][141]Cmd: DELETE
+[2019.05.31-19.03.53:560][141]Cmd: ACTOR DELETE
+[2019.05.31-19.03.53:614][141]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.03.53:636][141]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2019.05.31-19.03.54:010][184]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_149)
+[2019.05.31-19.03.54:167][195]Cmd: DELETE
+[2019.05.31-19.03.54:167][195]Cmd: ACTOR DELETE
+[2019.05.31-19.03.54:214][195]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.03.54:240][195]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2019.05.31-19.03.54:647][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_27)
+[2019.05.31-19.03.54:783][250]Cmd: DELETE
+[2019.05.31-19.03.54:783][250]Cmd: ACTOR DELETE
+[2019.05.31-19.03.54:834][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.03.54:861][250]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2019.05.31-19.03.55:590][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_146)
+[2019.05.31-19.03.55:719][343]Cmd: DELETE
+[2019.05.31-19.03.55:719][343]Cmd: ACTOR DELETE
+[2019.05.31-19.03.55:770][343]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.03.55:795][343]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2019.05.31-19.03.57:338][526]Cmd: TRANSACTION UNDO
+[2019.05.31-19.03.57:338][526]LogEditorTransaction: Undo Delete Actors
+[2019.05.31-19.03.57:638][543]Cmd: TRANSACTION UNDO
+[2019.05.31-19.03.57:638][543]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-19.03.58:093][589]Cmd: TRANSACTION UNDO
+[2019.05.31-19.03.58:093][589]LogEditorTransaction: Undo Delete Actors
+[2019.05.31-19.03.58:767][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_146)
+[2019.05.31-19.03.59:513][732]Cmd: DELETE
+[2019.05.31-19.03.59:513][732]Cmd: ACTOR DELETE
+[2019.05.31-19.03.59:577][732]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.03.59:602][732]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2019.05.31-19.04.00:275][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_145)
+[2019.05.31-19.04.00:538][834]Cmd: DELETE
+[2019.05.31-19.04.00:538][834]Cmd: ACTOR DELETE
+[2019.05.31-19.04.00:590][834]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.04.00:619][834]LogEditorActor: Deleted 1 Actors (0.081 secs)
+[2019.05.31-19.04.01:293][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_27)
+[2019.05.31-19.04.07:797][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_01a70)
+[2019.05.31-19.04.23:544][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_23)
+[2019.05.31-19.04.28:537][939]Cmd: DELETE
+[2019.05.31-19.04.28:537][939]Cmd: ACTOR DELETE
+[2019.05.31-19.04.28:589][939]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.04.28:614][939]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2019.05.31-19.04.29:513][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A)
+[2019.05.31-19.04.33:873][520]Cmd: TRANSACTION UNDO
+[2019.05.31-19.04.33:873][520]LogEditorTransaction: Undo Rotate Actors
+[2019.05.31-19.04.41:095][296]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-19.04.46:906][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A52)
+[2019.05.31-19.04.51:507][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A5)
+[2019.05.31-19.04.53:272][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A)
+[2019.05.31-19.04.57:796][158]Cmd: TRANSACTION UNDO
+[2019.05.31-19.04.57:796][158]LogEditorTransaction: Undo Move Actors
+[2019.05.31-19.05.06:941][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A121)
+[2019.05.31-19.05.08:910][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A6)
+[2019.05.31-19.05.15:907][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A121)
+[2019.05.31-19.05.16:958][296]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A6)
+[2019.05.31-19.05.18:675][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A121)
+[2019.05.31-19.05.19:386][558]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A5)
+[2019.05.31-19.05.23:341][  9]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_22)
+[2019.05.31-19.05.31:550][941]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A121)
+[2019.05.31-19.05.37:660][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A6)
+[2019.05.31-19.05.40:733][982]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-19.05.43:102][237]Cmd: DELETE
+[2019.05.31-19.05.43:102][237]Cmd: ACTOR DELETE
+[2019.05.31-19.05.43:151][237]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.05.43:177][237]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2019.05.31-19.05.46:693][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A7)
+[2019.05.31-19.05.52:442][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A6)
+[2019.05.31-19.06.04:946][703]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-19.06.17:849][155]Cmd: DELETE
+[2019.05.31-19.06.17:849][155]Cmd: ACTOR DELETE
+[2019.05.31-19.06.17:901][155]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.06.17:926][155]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2019.05.31-19.06.22:969][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A8)
+[2019.05.31-19.06.25:924][ 68]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (wall07_A9)
+[2019.05.31-19.06.25:949][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.31-19.06.28:529][280]Cmd: ACTOR MIRROR X=-1
+[2019.05.31-19.06.32:388][705]Cmd: TRANSACTION UNDO
+[2019.05.31-19.06.32:388][705]LogEditorTransaction: Undo Move Actors
+[2019.05.31-19.06.43:420][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A124)
+[2019.05.31-19.06.44:958][102]Cmd: TRANSACTION UNDO
+[2019.05.31-19.06.44:958][102]LogEditorTransaction: Undo Move Actors
+[2019.05.31-19.06.46:663][274]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A8)
+[2019.05.31-19.06.50:673][715]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A49)
+[2019.05.31-19.07.05:235][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A6)
+[2019.05.31-19.07.10:057][900]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A9)
+[2019.05.31-19.07.15:538][514]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-19.07.21:717][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A50)
+[2019.05.31-19.07.24:422][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A11)
+[2019.05.31-19.07.28:078][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A48)
+[2019.05.31-19.07.48:278][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A49)
+[2019.05.31-19.07.52:088][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A5)
+[2019.05.31-19.07.52:244][432]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-19.07.54:002][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A59)
+[2019.05.31-19.07.56:575][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A5)
+[2019.05.31-19.07.59:329][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A54)
+[2019.05.31-19.08.00:920][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A5)
+[2019.05.31-19.08.04:235][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A54)
+[2019.05.31-19.08.13:749][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A9)
+[2019.05.31-19.08.14:977][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A46)
+[2019.05.31-19.08.20:522][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_62)
+[2019.05.31-19.08.20:807][623]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-19.08.24:197][  9]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A3)
+[2019.05.31-19.08.25:748][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_84)
+[2019.05.31-19.08.26:455][248]Cmd: DELETE
+[2019.05.31-19.08.26:455][248]Cmd: ACTOR DELETE
+[2019.05.31-19.08.26:507][248]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.08.26:531][248]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2019.05.31-19.08.26:934][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_82)
+[2019.05.31-19.08.27:111][307]Cmd: DELETE
+[2019.05.31-19.08.27:111][307]Cmd: ACTOR DELETE
+[2019.05.31-19.08.27:159][307]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.08.27:185][307]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2019.05.31-19.08.27:872][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_60)
+[2019.05.31-19.08.27:999][395]Cmd: DELETE
+[2019.05.31-19.08.27:999][395]Cmd: ACTOR DELETE
+[2019.05.31-19.08.28:063][395]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.08.28:088][395]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2019.05.31-19.08.28:402][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_62)
+[2019.05.31-19.08.28:491][435]Cmd: DELETE
+[2019.05.31-19.08.28:491][435]Cmd: ACTOR DELETE
+[2019.05.31-19.08.28:543][435]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.08.28:572][435]LogEditorActor: Deleted 1 Actors (0.081 secs)
+[2019.05.31-19.08.28:946][478]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_63)
+[2019.05.31-19.08.29:045][483]Cmd: DELETE
+[2019.05.31-19.08.29:045][483]Cmd: ACTOR DELETE
+[2019.05.31-19.08.29:099][483]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.08.29:122][483]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2019.05.31-19.08.29:527][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_66)
+[2019.05.31-19.08.29:876][563]Cmd: DELETE
+[2019.05.31-19.08.29:876][563]Cmd: ACTOR DELETE
+[2019.05.31-19.08.29:928][563]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.08.29:953][563]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2019.05.31-19.08.30:377][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_18)
+[2019.05.31-19.08.30:594][631]Cmd: DELETE
+[2019.05.31-19.08.30:594][631]Cmd: ACTOR DELETE
+[2019.05.31-19.08.30:641][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.08.30:667][631]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2019.05.31-19.08.31:331][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_17)
+[2019.05.31-19.08.31:408][711]Cmd: DELETE
+[2019.05.31-19.08.31:408][711]Cmd: ACTOR DELETE
+[2019.05.31-19.08.31:455][711]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.08.31:481][711]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2019.05.31-19.08.33:740][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A4)
+[2019.05.31-19.08.38:010][442]Cmd: TRANSACTION UNDO
+[2019.05.31-19.08.38:011][442]LogEditorTransaction: Undo Move Actors
+[2019.05.31-19.08.39:863][631]Cmd: TRANSACTION UNDO
+[2019.05.31-19.08.39:863][631]LogEditorTransaction: Undo Move Actors
+[2019.05.31-19.08.45:757][266]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.31-19.08.53:683][167]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A66)
+[2019.05.31-19.08.54:474][252]Cmd: TRANSACTION UNDO
+[2019.05.31-19.08.54:474][252]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-19.08.58:022][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_88)
+[2019.05.31-19.08.58:777][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_68)
+[2019.05.31-19.08.59:615][799]Cmd: DELETE
+[2019.05.31-19.08.59:615][799]Cmd: ACTOR DELETE
+[2019.05.31-19.08.59:662][799]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.08.59:687][799]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2019.05.31-19.09.02:457][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_74)
+[2019.05.31-19.09.03:248][196]Cmd: DELETE
+[2019.05.31-19.09.03:248][196]Cmd: ACTOR DELETE
+[2019.05.31-19.09.03:300][196]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.09.03:324][196]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2019.05.31-19.09.03:648][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_71)
+[2019.05.31-19.09.03:816][246]Cmd: DELETE
+[2019.05.31-19.09.03:816][246]Cmd: ACTOR DELETE
+[2019.05.31-19.09.03:866][246]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.09.03:894][246]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2019.05.31-19.09.04:301][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_70)
+[2019.05.31-19.09.04:581][319]Cmd: DELETE
+[2019.05.31-19.09.04:581][319]Cmd: ACTOR DELETE
+[2019.05.31-19.09.04:627][319]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.09.04:653][319]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2019.05.31-19.09.06:321][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A16)
+[2019.05.31-19.09.14:990][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_19)
+[2019.05.31-19.09.15:668][542]Cmd: DELETE
+[2019.05.31-19.09.15:668][542]Cmd: ACTOR DELETE
+[2019.05.31-19.09.15:720][542]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.09.15:744][542]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2019.05.31-19.09.16:468][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_20)
+[2019.05.31-19.09.16:778][656]Cmd: DELETE
+[2019.05.31-19.09.16:779][656]Cmd: ACTOR DELETE
+[2019.05.31-19.09.16:829][656]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.09.16:856][656]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2019.05.31-19.09.17:400][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A17)
+[2019.05.31-19.09.25:308][600]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_86)
+[2019.05.31-19.09.26:001][672]Cmd: DELETE
+[2019.05.31-19.09.26:001][672]Cmd: ACTOR DELETE
+[2019.05.31-19.09.26:048][672]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.09.26:079][672]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2019.05.31-19.09.26:368][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_88)
+[2019.05.31-19.09.26:447][707]Cmd: DELETE
+[2019.05.31-19.09.26:447][707]Cmd: ACTOR DELETE
+[2019.05.31-19.09.26:519][707]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.09.26:548][707]LogEditorActor: Deleted 1 Actors (0.101 secs)
+[2019.05.31-19.09.27:027][760]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A17)
+[2019.05.31-19.09.28:030][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A18)
+[2019.05.31-19.09.30:395][125]Cmd: TRANSACTION UNDO
+[2019.05.31-19.09.30:395][125]LogEditorTransaction: Undo Move Actors
+[2019.05.31-19.09.38:902][ 48]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere4)
+[2019.05.31-19.09.43:114][523]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A21)
+[2019.05.31-19.09.47:550][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-19.09.50:812][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A99)
+[2019.05.31-19.09.51:450][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A20)
+[2019.05.31-19.10.05:501][943]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A14)
+[2019.05.31-19.10.06:840][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A16)
+[2019.05.31-19.10.07:446][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A21)
+[2019.05.31-19.10.11:038][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_75)
+[2019.05.31-19.10.12:323][682]Cmd: TRANSACTION UNDO
+[2019.05.31-19.10.12:323][682]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-19.10.13:235][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A17)
+[2019.05.31-19.10.16:992][176]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere4)
+[2019.05.31-19.10.19:795][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-19.10.26:322][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A20)
+[2019.05.31-19.10.27:518][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A21)
+[2019.05.31-19.10.28:785][480]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere4)
+[2019.05.31-19.10.29:566][565]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (wall07_A20)
+[2019.05.31-19.10.29:614][565]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.31-19.10.30:883][698]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.31-19.10.32:507][861]LogActorFactory: Actor Factory created wall07_A
+[2019.05.31-19.10.33:412][946]LogActorFactory: Actor Factory created wall07_A
+[2019.05.31-19.10.34:447][ 58]Cmd: DELETE
+[2019.05.31-19.10.34:447][ 58]Cmd: ACTOR DELETE
+[2019.05.31-19.10.34:494][ 58]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.31-19.10.34:521][ 58]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2019.05.31-19.10.35:022][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A20)
+[2019.05.31-19.10.36:358][262]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere4)
+[2019.05.31-19.10.37:019][330]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere4)
+[2019.05.31-19.10.38:787][519]Cmd: TRANSACTION UNDO
+[2019.05.31-19.10.38:787][519]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-19.10.39:038][537]Cmd: TRANSACTION UNDO
+[2019.05.31-19.10.39:038][537]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-19.10.39:259][548]Cmd: TRANSACTION UNDO
+[2019.05.31-19.10.39:259][548]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-19.10.39:952][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall07_A20)
+[2019.05.31-19.10.41:060][742]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere4)
+[2019.05.31-19.10.41:181][751]Cmd: TRANSACTION UNDO
+[2019.05.31-19.10.41:181][751]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-19.10.41:357][762]Cmd: TRANSACTION UNDO
+[2019.05.31-19.10.41:357][762]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-19.10.41:511][777]Cmd: TRANSACTION UNDO
+[2019.05.31-19.10.41:511][777]LogEditorTransaction: Undo Delete Actors
+[2019.05.31-19.10.41:682][786]Cmd: TRANSACTION UNDO
+[2019.05.31-19.10.41:682][786]LogEditorTransaction: Undo Create Actors
+[2019.05.31-19.10.42:357][850]Cmd: TRANSACTION UNDO
+[2019.05.31-19.10.42:357][850]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2019.05.31-19.10.42:608][870]Cmd: TRANSACTION UNDO
+[2019.05.31-19.10.42:608][870]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-19.10.42:790][881]Cmd: TRANSACTION UNDO
+[2019.05.31-19.10.42:790][881]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-19.10.43:190][916]Cmd: TRANSACTION UNDO
+[2019.05.31-19.10.43:190][916]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-19.10.43:481][941]Cmd: TRANSACTION UNDO
+[2019.05.31-19.10.43:481][941]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-19.10.43:665][951]Cmd: TRANSACTION UNDO
+[2019.05.31-19.10.43:665][951]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-19.10.43:854][964]Cmd: TRANSACTION UNDO
+[2019.05.31-19.10.43:854][964]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-19.10.44:067][978]Cmd: TRANSACTION UNDO
+[2019.05.31-19.10.44:067][978]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-19.10.44:275][992]Cmd: TRANSACTION UNDO
+[2019.05.31-19.10.44:275][992]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-19.10.44:493][  8]Cmd: TRANSACTION UNDO
+[2019.05.31-19.10.44:493][  8]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-19.10.44:706][ 23]Cmd: TRANSACTION UNDO
+[2019.05.31-19.10.44:706][ 23]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-19.10.44:926][ 38]Cmd: TRANSACTION UNDO
+[2019.05.31-19.10.44:927][ 38]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-19.10.45:145][ 54]Cmd: TRANSACTION UNDO
+[2019.05.31-19.10.45:145][ 54]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-19.10.45:382][ 71]Cmd: TRANSACTION UNDO
+[2019.05.31-19.10.45:382][ 71]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-19.10.45:597][ 85]Cmd: TRANSACTION UNDO
+[2019.05.31-19.10.45:598][ 85]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-19.10.45:841][104]Cmd: TRANSACTION UNDO
+[2019.05.31-19.10.45:841][104]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-19.10.46:086][124]Cmd: TRANSACTION UNDO
+[2019.05.31-19.10.46:086][124]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.31-19.10.46:352][145]Cmd: TRANSACTION UNDO
+[2019.05.31-19.10.46:352][145]LogEditorTransaction: Undo Move Actors
+[2019.05.31-19.10.46:584][165]Cmd: TRANSACTION UNDO
+[2019.05.31-19.10.46:584][165]LogEditorTransaction: Undo Move Actors
+[2019.05.31-19.10.49:843][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor03_A75)
+[2019.05.31-19.10.51:742][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-19.11.26:084][415]LogSlate: Window 'Save Content' being destroyed
+[2019.05.31-19.11.26:098][415]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.31-19.11.26:153][415]LogSavePackage: Moving '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/wall01_A96C5F85B4B084EF6B98F69997D089323.tmp' to '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Content/Geometry/Foundation/wall01_A.uasset'
+[2019.05.31-19.11.26:197][415]LogSavePackage: Moving '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/wall01_B010E28AE47AC397ABE7C96B1DFC9113E.tmp' to '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Content/Geometry/Foundation/wall01_B.uasset'
+[2019.05.31-19.11.27:809][415]LogSavePackage: Moving '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/TestMapGeometry86E0F56B404C928A431180815B823A18.tmp' to '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Content/Levels/TestMapGeometry.umap'
+[2019.05.31-19.11.27:861][415]LogFileHelpers: Saving map 'TestMapGeometry' took 1.651
+[2019.05.31-19.11.27:955][415]LogSavePackage: Moving '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/wall_07_wall07_B_BaseColor71A157AB43F2A2344AD2EB8AD7661033.tmp' to '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Content/Textures/Walls/wall_07_wall07_B_BaseColor.uasset'
+[2019.05.31-19.11.28:165][415]LogSavePackage: Moving '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Saved/wall_07_wall07_B_Normal907A3BF2408EA5B1C6FE8A9F2C88A986.tmp' to '../../../../../../Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Content/Textures/Walls/wall_07_wall07_B_Normal.uasset'
+[2019.05.31-19.11.28:251][415]LogSlate: Window 'BlueprintExtraCredit - Unreal Editor' being destroyed
+[2019.05.31-19.11.28:519][416]Cmd: QUIT_EDITOR
+[2019.05.31-19.11.28:706][416]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.31-19.11.28:723][416]LogExit: Preparing to exit.
+[2019.05.31-19.11.29:513][416]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Kylen/Documents/GitHub/ExtraCredits/BlueprintExtraCredit/Content/', and we were unable to create a new request.
+[2019.05.31-19.11.29:581][416]LogExit: Editor shut down
+[2019.05.31-19.11.29:582][416]LogExit: Transaction tracking system shut down
+[2019.05.31-19.11.29:912][416]LogExit: Object subsystem successfully closed.
+[2019.05.31-19.11.29:941][416]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.05.31-19.11.29:952][416]LogD3D11RHI: Shutdown
+[2019.05.31-19.11.29:952][416]LogD3D11RHI: CleanupD3DDevice
+[2019.05.31-19.11.29:957][416]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.05.31-19.11.30:009][416]LogModuleManager: Shutting down and abandoning module TextureEditor (640)
+[2019.05.31-19.11.30:010][416]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (638)
+[2019.05.31-19.11.30:010][416]LogModuleManager: Shutting down and abandoning module Voice (636)
+[2019.05.31-19.11.30:010][416]LogModuleManager: Shutting down and abandoning module MeshBuilder (634)
+[2019.05.31-19.11.30:010][416]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (632)
+[2019.05.31-19.11.30:010][416]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (630)
+[2019.05.31-19.11.30:010][416]LogModuleManager: Shutting down and abandoning module WorldBrowser (628)
+[2019.05.31-19.11.30:010][416]LogModuleManager: Shutting down and abandoning module SceneOutliner (626)
+[2019.05.31-19.11.30:010][416]LogModuleManager: Shutting down and abandoning module AddContentDialog (624)
+[2019.05.31-19.11.30:013][416]LogModuleManager: Shutting down and abandoning module WidgetCarousel (623)
+[2019.05.31-19.11.30:013][416]LogModuleManager: Shutting down and abandoning module EditorWidgets (620)
+[2019.05.31-19.11.30:013][416]LogModuleManager: Shutting down and abandoning module CollectionManager (618)
+[2019.05.31-19.11.30:014][416]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (616)
+[2019.05.31-19.11.30:014][416]LogModuleManager: Shutting down and abandoning module StatsViewer (614)
+[2019.05.31-19.11.30:014][416]LogModuleManager: Shutting down and abandoning module FoliageEdit (612)
+[2019.05.31-19.11.30:014][416]LogModuleManager: Shutting down and abandoning module LandscapeEditor (610)
+[2019.05.31-19.11.30:014][416]LogModuleManager: Shutting down and abandoning module MeshPaintMode (608)
+[2019.05.31-19.11.30:014][416]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (606)
+[2019.05.31-19.11.30:014][416]LogModuleManager: Shutting down and abandoning module ActorPickerMode (604)
+[2019.05.31-19.11.30:014][416]LogModuleManager: Shutting down and abandoning module GeometryMode (602)
+[2019.05.31-19.11.30:014][416]LogModuleManager: Shutting down and abandoning module TextureAlignMode (600)
+[2019.05.31-19.11.30:014][416]LogModuleManager: Shutting down and abandoning module BspMode (598)
+[2019.05.31-19.11.30:014][416]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (596)
+[2019.05.31-19.11.30:014][416]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (594)
+[2019.05.31-19.11.30:014][416]LogModuleManager: Shutting down and abandoning module AutomationWorker (592)
+[2019.05.31-19.11.30:014][416]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (590)
+[2019.05.31-19.11.30:014][416]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (588)
+[2019.05.31-19.11.30:014][416]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (586)
+[2019.05.31-19.11.30:014][416]LogModuleManager: Shutting down and abandoning module PlacementMode (585)
+[2019.05.31-19.11.30:014][416]LogModuleManager: Shutting down and abandoning module MaterialEditor (584)
+[2019.05.31-19.11.30:014][416]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (580)
+[2019.05.31-19.11.30:015][416]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (578)
+[2019.05.31-19.11.30:015][416]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (576)
+[2019.05.31-19.11.30:015][416]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (574)
+[2019.05.31-19.11.30:015][416]LogModuleManager: Shutting down and abandoning module WebMMedia (572)
+[2019.05.31-19.11.30:015][416]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (570)
+[2019.05.31-19.11.30:015][416]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (568)
+[2019.05.31-19.11.30:015][416]LogModuleManager: Shutting down and abandoning module SequenceRecorder (567)
+[2019.05.31-19.11.30:015][416]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (564)
+[2019.05.31-19.11.30:015][416]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (562)
+[2019.05.31-19.11.30:015][416]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (560)
+[2019.05.31-19.11.30:015][416]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (558)
+[2019.05.31-19.11.30:015][416]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (556)
+[2019.05.31-19.11.30:015][416]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (554)
+[2019.05.31-19.11.30:015][416]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (552)
+[2019.05.31-19.11.30:015][416]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (550)
+[2019.05.31-19.11.30:015][416]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (548)
+[2019.05.31-19.11.30:015][416]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (546)
+[2019.05.31-19.11.30:015][416]LogModuleManager: Shutting down and abandoning module CharacterAI (544)
+[2019.05.31-19.11.30:015][416]LogModuleManager: Shutting down and abandoning module SmartSnapping (542)
+[2019.05.31-19.11.30:015][416]LogModuleManager: Shutting down and abandoning module SessionServices (540)
+[2019.05.31-19.11.30:015][416]LogModuleManager: Shutting down and abandoning module ViewportSnapping (538)
+[2019.05.31-19.11.30:015][416]LogModuleManager: Shutting down and abandoning module ViewportInteraction (536)
+[2019.05.31-19.11.30:015][416]LogModuleManager: Shutting down and abandoning module ClothPainter (534)
+[2019.05.31-19.11.30:015][416]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (533)
+[2019.05.31-19.11.30:015][416]LogModuleManager: Shutting down and abandoning module LogVisualizer (530)
+[2019.05.31-19.11.30:015][416]LogModuleManager: Shutting down and abandoning module IntroTutorials (528)
+[2019.05.31-19.11.30:016][416]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (527)
+[2019.05.31-19.11.30:016][416]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (524)
+[2019.05.31-19.11.30:016][416]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (522)
+[2019.05.31-19.11.30:016][416]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (520)
+[2019.05.31-19.11.30:016][416]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (518)
+[2019.05.31-19.11.30:016][416]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (517)
+[2019.05.31-19.11.30:103][416]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (514)
+[2019.05.31-19.11.30:104][416]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (512)
+[2019.05.31-19.11.30:104][416]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (510)
+[2019.05.31-19.11.30:104][416]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (508)
+[2019.05.31-19.11.30:104][416]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (506)
+[2019.05.31-19.11.30:104][416]LogModuleManager: Shutting down and abandoning module InputBindingEditor (504)
+[2019.05.31-19.11.30:104][416]LogModuleManager: Shutting down and abandoning module MergeActors (502)
+[2019.05.31-19.11.30:104][416]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (500)
+[2019.05.31-19.11.30:104][416]LogModuleManager: Shutting down and abandoning module LocalizationService (499)
+[2019.05.31-19.11.30:104][416]LogModuleManager: Shutting down and abandoning module HardwareTargeting (496)
+[2019.05.31-19.11.30:104][416]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (494)
+[2019.05.31-19.11.30:104][416]LogModuleManager: Shutting down and abandoning module UndoHistory (492)
+[2019.05.31-19.11.30:104][416]LogModuleManager: Shutting down and abandoning module XmlParser (490)
+[2019.05.31-19.11.30:104][416]LogModuleManager: Shutting down and abandoning module Blutility (488)
+[2019.05.31-19.11.30:104][416]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (486)
+[2019.05.31-19.11.30:104][416]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (485)
+[2019.05.31-19.11.30:104][416]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (482)
+[2019.05.31-19.11.30:105][416]LogModuleManager: Shutting down and abandoning module SettingsEditor (480)
+[2019.05.31-19.11.30:105][416]LogModuleManager: Shutting down and abandoning module ProjectLauncher (478)
+[2019.05.31-19.11.30:105][416]LogModuleManager: Shutting down and abandoning module SessionFrontend (476)
+[2019.05.31-19.11.30:105][416]LogModuleManager: Shutting down and abandoning module ProfilerClient (474)
+[2019.05.31-19.11.30:105][416]LogModuleManager: Shutting down and abandoning module DeviceManager (472)
+[2019.05.31-19.11.30:105][416]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (471)
+[2019.05.31-19.11.30:161][416]LogModuleManager: Shutting down and abandoning module AutomationController (468)
+[2019.05.31-19.11.30:161][416]LogModuleManager: Shutting down and abandoning module AutomationWindow (466)
+[2019.05.31-19.11.30:161][416]LogModuleManager: Shutting down and abandoning module Layers (464)
+[2019.05.31-19.11.30:161][416]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (462)
+[2019.05.31-19.11.30:161][416]LogModuleManager: Shutting down and abandoning module DetailCustomizations (460)
+[2019.05.31-19.11.30:161][416]LogModuleManager: Shutting down and abandoning module PackagesDialog (458)
+[2019.05.31-19.11.30:161][416]LogModuleManager: Shutting down and abandoning module Persona (456)
+[2019.05.31-19.11.30:161][416]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (455)
+[2019.05.31-19.11.30:161][416]LogModuleManager: Shutting down and abandoning module AnimGraph (453)
+[2019.05.31-19.11.30:161][416]LogModuleManager: Shutting down and abandoning module Kismet (450)
+[2019.05.31-19.11.30:162][416]LogModuleManager: Shutting down and abandoning module GraphEditor (448)
+[2019.05.31-19.11.30:162][416]LogModuleManager: Shutting down and abandoning module ClassViewer (446)
+[2019.05.31-19.11.30:162][416]LogModuleManager: Shutting down and abandoning module Toolbox (444)
+[2019.05.31-19.11.30:162][416]LogModuleManager: Shutting down and abandoning module ModuleUI (442)
+[2019.05.31-19.11.30:162][416]LogModuleManager: Shutting down and abandoning module MovieSceneTools (440)
+[2019.05.31-19.11.30:162][416]LogModuleManager: Shutting down and abandoning module OutputLog (438)
+[2019.05.31-19.11.30:162][416]LogModuleManager: Shutting down and abandoning module GammaUI (436)
+[2019.05.31-19.11.30:162][416]LogModuleManager: Shutting down and abandoning module Documentation (434)
+[2019.05.31-19.11.30:162][416]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (432)
+[2019.05.31-19.11.30:162][416]LogModuleManager: Shutting down and abandoning module MovieScene (430)
+[2019.05.31-19.11.30:162][416]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (428)
+[2019.05.31-19.11.30:162][416]LogModuleManager: Shutting down and abandoning module LauncherPlatform (426)
+[2019.05.31-19.11.30:162][416]LogModuleManager: Shutting down and abandoning module AnalyticsET (424)
+[2019.05.31-19.11.30:162][416]LogModuleManager: Shutting down and abandoning module PortalServices (422)
+[2019.05.31-19.11.30:162][416]LogModuleManager: Shutting down and abandoning module PortalRpc (420)
+[2019.05.31-19.11.30:162][416]LogModuleManager: Shutting down and abandoning module MessagingRpc (418)
+[2019.05.31-19.11.30:162][416]LogModuleManager: Shutting down and abandoning module AIModule (416)
+[2019.05.31-19.11.30:162][416]LogModuleManager: Shutting down and abandoning module GameplayDebugger (415)
+[2019.05.31-19.11.30:162][416]LogModuleManager: Shutting down and abandoning module AITestSuite (413)
+[2019.05.31-19.11.30:162][416]LogModuleManager: Shutting down and abandoning module NavigationSystem (411)
+[2019.05.31-19.11.30:162][416]LogModuleManager: Shutting down and abandoning module DesktopPlatform (408)
+[2019.05.31-19.11.30:162][416]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (406)
+[2019.05.31-19.11.30:168][416]LogModuleManager: Shutting down and abandoning module ProfilerService (404)
+[2019.05.31-19.11.30:369][416]LogModuleManager: Shutting down and abandoning module TaskGraph (402)
+[2019.05.31-19.11.30:369][416]LogModuleManager: Shutting down and abandoning module SteamVRController (400)
+[2019.05.31-19.11.30:370][416]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (398)
+[2019.05.31-19.11.30:370][416]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (396)
+[2019.05.31-19.11.30:370][416]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.05.31-19.11.30:370][416]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.05.31-19.11.30:370][416]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.05.31-19.11.30:370][416]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.05.31-19.11.30:370][416]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.05.31-19.11.30:370][416]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.05.31-19.11.30:370][416]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.05.31-19.11.30:370][416]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.05.31-19.11.30:370][416]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.05.31-19.11.30:370][416]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.05.31-19.11.30:370][416]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.05.31-19.11.30:370][416]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.05.31-19.11.30:370][416]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.05.31-19.11.30:378][416]LogModuleManager: Shutting down and abandoning module FMODStudioEditor (368)
+[2019.05.31-19.11.30:378][416]LogModuleManager: Shutting down and abandoning module HTML5Networking (366)
+[2019.05.31-19.11.30:378][416]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (364)
+[2019.05.31-19.11.30:378][416]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (362)
+[2019.05.31-19.11.30:378][416]LogModuleManager: Shutting down and abandoning module BackChannel (360)
+[2019.05.31-19.11.30:378][416]LogModuleManager: Shutting down and abandoning module AppleVision (358)
+[2019.05.31-19.11.30:378][416]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (356)
+[2019.05.31-19.11.30:378][416]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2019.05.31-19.11.30:378][416]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2019.05.31-19.11.30:378][416]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2019.05.31-19.11.30:379][416]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2019.05.31-19.11.30:379][416]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2019.05.31-19.11.30:379][416]LogModuleManager: Shutting down and abandoning module VariantManagerContent (344)
+[2019.05.31-19.11.30:379][416]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.05.31-19.11.30:379][416]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2019.05.31-19.11.30:379][416]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2019.05.31-19.11.30:379][416]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2019.05.31-19.11.30:379][416]LogModuleManager: Shutting down and abandoning module PolygonModeling (334)
+[2019.05.31-19.11.30:379][416]LogModuleManager: Shutting down and abandoning module MeshEditor (332)
+[2019.05.31-19.11.30:379][416]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2019.05.31-19.11.30:379][416]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2019.05.31-19.11.30:379][416]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2019.05.31-19.11.30:379][416]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2019.05.31-19.11.30:379][416]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2019.05.31-19.11.30:379][416]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2019.05.31-19.11.30:379][416]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2019.05.31-19.11.30:380][416]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2019.05.31-19.11.30:380][416]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2019.05.31-19.11.30:380][416]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2019.05.31-19.11.30:380][416]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (310)
+[2019.05.31-19.11.30:380][416]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (308)
+[2019.05.31-19.11.30:380][416]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (306)
+[2019.05.31-19.11.30:380][416]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (304)
+[2019.05.31-19.11.30:380][416]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (302)
+[2019.05.31-19.11.30:380][416]LogModuleManager: Shutting down and abandoning module Paper2DEditor (300)
+[2019.05.31-19.11.30:380][416]LogModuleManager: Shutting down and abandoning module MeshPaint (299)
+[2019.05.31-19.11.30:380][416]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (296)
+[2019.05.31-19.11.30:380][416]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (294)
+[2019.05.31-19.11.30:380][416]LogModuleManager: Shutting down and abandoning module PhysXVehicles (292)
+[2019.05.31-19.11.30:380][416]LogModuleManager: Shutting down and abandoning module OculusEditor (290)
+[2019.05.31-19.11.30:380][416]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (288)
+[2019.05.31-19.11.30:380][416]LogModuleManager: Shutting down and abandoning module ActorSequence (286)
+[2019.05.31-19.11.30:380][416]LogModuleManager: Shutting down and abandoning module UdpMessaging (284)
+[2019.05.31-19.11.30:481][416]LogModuleManager: Shutting down and abandoning module TcpMessaging (282)
+[2019.05.31-19.11.30:583][416]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (280)
+[2019.05.31-19.11.30:583][416]LogModuleManager: Shutting down and abandoning module FMODStudio (278)
+[2019.05.31-19.11.30:796][416]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.05.31-19.11.30:796][416]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.05.31-19.11.30:796][416]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.05.31-19.11.30:796][416]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.05.31-19.11.30:796][416]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.05.31-19.11.30:796][416]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.05.31-19.11.30:797][416]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.05.31-19.11.30:797][416]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.05.31-19.11.30:798][416]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.05.31-19.11.30:798][416]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.05.31-19.11.30:800][416]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.05.31-19.11.30:803][416]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.05.31-19.11.30:803][416]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.05.31-19.11.30:803][416]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.05.31-19.11.30:803][416]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.05.31-19.11.30:803][416]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.05.31-19.11.30:803][416]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.05.31-19.11.30:803][416]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.05.31-19.11.30:809][416]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.05.31-19.11.30:815][416]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.05.31-19.11.30:815][416]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.05.31-19.11.30:815][416]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.05.31-19.11.30:815][416]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.05.31-19.11.30:816][416]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.05.31-19.11.30:816][416]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.05.31-19.11.30:816][416]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.05.31-19.11.30:816][416]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.05.31-19.11.30:816][416]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.05.31-19.11.30:816][416]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.05.31-19.11.30:816][416]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.05.31-19.11.30:816][416]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.05.31-19.11.30:816][416]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.05.31-19.11.30:816][416]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.05.31-19.11.30:816][416]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.05.31-19.11.30:816][416]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.05.31-19.11.30:816][416]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.05.31-19.11.30:816][416]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.05.31-19.11.30:816][416]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.05.31-19.11.30:816][416]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.05.31-19.11.30:821][416]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.05.31-19.11.30:821][416]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.05.31-19.11.30:821][416]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.05.31-19.11.30:821][416]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.05.31-19.11.30:821][416]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.05.31-19.11.30:821][416]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.05.31-19.11.30:821][416]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.05.31-19.11.30:821][416]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.05.31-19.11.30:821][416]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.05.31-19.11.30:821][416]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.05.31-19.11.30:821][416]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.05.31-19.11.30:821][416]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.05.31-19.11.30:821][416]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.05.31-19.11.30:821][416]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.05.31-19.11.30:821][416]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.05.31-19.11.30:821][416]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.05.31-19.11.30:821][416]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.05.31-19.11.30:822][416]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.05.31-19.11.30:828][416]LogDerivedDataCache: Shutdown
+[2019.05.31-19.11.30:828][416]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.05.31-19.11.30:828][416]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.05.31-19.11.30:828][416]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.05.31-19.11.30:828][416]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.05.31-19.11.30:828][416]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.05.31-19.11.30:828][416]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.05.31-19.11.30:828][416]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.05.31-19.11.30:828][416]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.05.31-19.11.30:828][416]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.05.31-19.11.30:828][416]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.05.31-19.11.30:828][416]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.05.31-19.11.30:828][416]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.05.31-19.11.30:828][416]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.05.31-19.11.30:828][416]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.05.31-19.11.30:828][416]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.05.31-19.11.30:828][416]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.05.31-19.11.30:828][416]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.05.31-19.11.30:828][416]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.05.31-19.11.30:839][416]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.05.31-19.11.30:839][416]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.05.31-19.11.30:839][416]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.05.31-19.11.30:839][416]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.05.31-19.11.30:840][416]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.05.31-19.11.30:844][416]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.05.31-19.11.30:844][416]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.05.31-19.11.30:847][416]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.05.31-19.11.30:847][416]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.05.31-19.11.30:890][416]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.05.31-19.11.30:890][416]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.05.31-19.11.30:891][416]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.05.31-19.11.30:891][416]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.05.31-19.11.30:891][416]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.05.31-19.11.30:891][416]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.05.31-19.11.30:891][416]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.05.31-19.11.30:891][416]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.05.31-19.11.30:891][416]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.05.31-19.11.30:891][416]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.05.31-19.11.30:891][416]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.05.31-19.11.30:891][416]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.05.31-19.11.30:891][416]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.05.31-19.11.30:891][416]LogHMD: Freeing OpenVRDLLHandle.
+[2019.05.31-19.11.30:891][416]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.05.31-19.11.30:891][416]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.05.31-19.11.30:891][416]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.05.31-19.11.30:891][416]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.05.31-19.11.30:891][416]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.05.31-19.11.30:892][416]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.05.31-19.11.30:892][416]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.05.31-19.11.30:924][416]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.05.31-19.11.30:925][416]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.05.31-19.11.30:925][416]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEF706EC0-448A-2F8E-D965-98A59AA324F8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=6dc02879459a54b01095b1aa19236e37%7Cd7343f7c08124eacbdaa0dadeadeb245%7C976a0f86-357c-4c6a-a461-c195be435d22&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.05.31-19.11.30:953][416]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.05.31-19.11.30:955][416]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.05.31-19.11.30:955][416]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.05.31-19.11.30:955][416]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.05.31-19.11.30:955][416]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.05.31-19.11.30:955][416]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.05.31-19.11.30:955][416]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.05.31-19.11.30:955][416]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.05.31-19.11.30:955][416]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.05.31-19.11.30:956][416]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.05.31-19.11.30:956][416]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.05.31-19.11.30:957][416]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.05.31-19.11.30:957][416]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.05.31-19.11.30:957][416]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.05.31-19.11.30:957][416]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.05.31-19.11.30:957][416]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.05.31-19.11.30:957][416]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.05.31-19.11.30:957][416]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.05.31-19.11.30:958][416]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.05.31-19.11.30:958][416]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.05.31-19.11.30:958][416]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.05.31-19.11.30:958][416]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.05.31-19.11.30:958][416]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.05.31-19.11.30:958][416]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.05.31-19.11.30:958][416]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.05.31-19.11.30:958][416]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.05.31-19.11.30:958][416]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.05.31-19.11.30:958][416]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.05.31-19.11.30:958][416]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.05.31-19.11.30:963][416]LogExit: Exiting.
+[2019.05.31-19.11.30:987][416]Log file closed, 05/31/19 13:11:30
