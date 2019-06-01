@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{003447f0-3dbb-4148-a830-797363da336e}">
+        <property name="assetPath">
+            <value>Crows_3.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>3.7010204081632652</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{325368bf-04d8-466f-8648-404e6bccdb23}</destination>
+        </relationship>
+    </object>
+</objects>

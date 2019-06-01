@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{bfd1dcb2-f62f-4920-8223-42876fbfb524}">
+        <property name="assetPath">
+            <value>Extra credits SD/Rune_Whisper_2.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>3.7593650793650792</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{325368bf-04d8-466f-8648-404e6bccdb23}</destination>
+        </relationship>
+    </object>
+</objects>
