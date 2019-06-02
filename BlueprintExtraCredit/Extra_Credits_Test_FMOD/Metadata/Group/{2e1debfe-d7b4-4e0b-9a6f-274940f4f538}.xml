@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.01.10.00">
     <object class="MixerGroup" id="{2e1debfe-d7b4-4e0b-9a6f-274940f4f538}">
+        <property name="volume">
+            <value>0.200000003</value>
+        </property>
         <property name="name">
             <value>FootSteps</value>
         </property>
@@ -25,7 +28,7 @@
     <object class="MixerBusFader" id="{32385f99-2253-41c5-b35d-f1069f447324}"/>
     <object class="MixerSend" id="{47994409-d53b-4c98-810a-0e35dff1376f}">
         <property name="level">
-            <value>-25.5</value>
+            <value>-21.5</value>
         </property>
         <property name="inputFormat">
             <value>1</value>
