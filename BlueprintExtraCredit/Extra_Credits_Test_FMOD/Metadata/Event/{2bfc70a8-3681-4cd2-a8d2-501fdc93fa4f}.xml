@@ -2,13 +2,13 @@
 <objects serializationModel="Studio.01.10.00">
     <object class="Event" id="{2bfc70a8-3681-4cd2-a8d2-501fdc93fa4f}">
         <property name="name">
-            <value>New Event (20)</value>
+            <value>Milos_findladder</value>
         </property>
         <property name="outputFormat">
             <value>0</value>
         </property>
         <relationship name="folder">
-            <destination>{63ae8feb-9308-4fe2-82bd-15850b8b2ed8}</destination>
+            <destination>{e93f7ad7-c810-441a-a0b7-bd244b0b3eca}</destination>
         </relationship>
         <relationship name="mixer">
             <destination>{c1c93bde-c2ac-4b29-a4b7-04e874efc002}</destination>

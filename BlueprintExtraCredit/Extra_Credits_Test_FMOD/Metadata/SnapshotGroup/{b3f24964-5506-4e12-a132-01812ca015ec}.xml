@@ -2,12 +2,13 @@
 <objects serializationModel="Studio.01.10.00">
     <object class="SnapshotList" id="{b3f24964-5506-4e12-a132-01812ca015ec}">
         <relationship name="items">
-            <destination>{012585b2-44b4-466a-bd8b-3d876e4113ff}</destination>
-            <destination>{f066eb0d-e421-43a1-a330-8f726c9b1df7}</destination>
-            <destination>{f8f1bac7-c414-41c2-a5a3-9aa243a1feca}</destination>
-            <destination>{b51673e7-e5a7-4351-a871-ccd375fbd3bf}</destination>
-            <destination>{08398f3c-8d5f-4e7e-80b7-8e72e47ecfe5}</destination>
-            <destination>{35418847-52cc-448f-9e7b-af237f5f2ff1}</destination>
+            <destination>{e0aa5c82-4c5b-49d8-a611-44bd5ed598ec}</destination>
+            <destination>{92e14d33-7603-4653-a0cb-7dc610924ec1}</destination>
+            <destination>{2d95beea-04df-40c6-a915-67735d09c9a5}</destination>
+            <destination>{f747377b-6716-44ff-be7c-a36b35b7ba08}</destination>
+            <destination>{d656d480-fe93-4dbd-a1a6-cd0be8553031}</destination>
+            <destination>{789f535d-841e-467e-b2d7-f1a6915bdae3}</destination>
+            <destination>{fb6b0703-206f-4793-80c0-bf78f6d7b2e4}</destination>
         </relationship>
         <relationship name="mixer">
             <destination>{ea3ed72d-2a5f-4308-8a0d-85f6847f47bd}</destination>
