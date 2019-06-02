@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="MixerGroup" id="{05afd81f-303b-4abf-b6f9-357dd3c34237}">
+        <property name="name">
+            <value>WoodSteps</value>
+        </property>
+        <relationship name="effectChain">
+            <destination>{0ec58ca1-de79-4bd8-943c-f020bacabd27}</destination>
+        </relationship>
+        <relationship name="panner">
+            <destination>{a139baca-fb64-4766-8183-c211d1aab280}</destination>
+        </relationship>
+        <relationship name="output">
+            <destination>{6d1689ce-c756-465a-8477-1c4fc03648ab}</destination>
+        </relationship>
+    </object>
+    <object class="MixerBusEffectChain" id="{0ec58ca1-de79-4bd8-943c-f020bacabd27}">
+        <relationship name="effects">
+            <destination>{5a0d56d9-cde7-4dca-9de7-93e521d79cf5}</destination>
+        </relationship>
+    </object>
+    <object class="MixerBusPanner" id="{a139baca-fb64-4766-8183-c211d1aab280}"/>
+    <object class="MixerBusFader" id="{5a0d56d9-cde7-4dca-9de7-93e521d79cf5}"/>
+</objects>

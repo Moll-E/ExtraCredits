@@ -53,14 +53,14 @@
             <destination>{b3b7e14c-d84c-4019-beeb-b657e4501b2c}</destination>
         </relationship>
         <relationship name="output">
-            <destination>{06835d8c-9528-4c6f-99b5-2c7a5ce9172e}</destination>
+            <destination>{6d1689ce-c756-465a-8477-1c4fc03648ab}</destination>
         </relationship>
     </object>
     <object class="EventAutomatableProperties" id="{6639255b-756d-4932-a4b7-d8dedd862d52}"/>
     <object class="MarkerTrack" id="{00beb1ed-b23f-4cbf-8e8d-bd785daa2deb}"/>
     <object class="GroupTrack" id="{54b6f323-38a0-434b-95f2-fda82175d111}">
         <relationship name="modules">
-            <destination>{048652ef-449e-4824-8422-856804e38e00}</destination>
+            <destination>{562c4690-266c-4123-9eb6-af0124f790a0}</destination>
         </relationship>
         <relationship name="mixerGroup">
             <destination>{fca1e867-4030-4653-b39c-fa8b4480fe64}</destination>
@@ -68,7 +68,7 @@
     </object>
     <object class="Timeline" id="{d4923aa3-4af9-45ca-9a94-f776a8594326}">
         <relationship name="modules">
-            <destination>{048652ef-449e-4824-8422-856804e38e00}</destination>
+            <destination>{562c4690-266c-4123-9eb6-af0124f790a0}</destination>
         </relationship>
     </object>
     <object class="EventMixerMaster" id="{41e35e5f-2acb-48b7-b3d6-50870f538a4d}">
@@ -88,12 +88,12 @@
         </relationship>
     </object>
     <object class="MixerBusPanner" id="{b3b7e14c-d84c-4019-beeb-b657e4501b2c}"/>
-    <object class="SingleSound" id="{048652ef-449e-4824-8422-856804e38e00}">
+    <object class="SingleSound" id="{562c4690-266c-4123-9eb6-af0124f790a0}">
         <property name="length">
             <value>1.4800907029478458</value>
         </property>
         <relationship name="audioFile">
-            <destination>{9330f619-dee7-4f5d-82f3-c4edca9df048}</destination>
+            <destination>{cbb2b708-6694-4a9c-9de4-f565786c6ef7}</destination>
         </relationship>
     </object>
     <object class="EventMixerGroup" id="{fca1e867-4030-4653-b39c-fa8b4480fe64}">
